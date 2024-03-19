@@ -1,0 +1,97 @@
+User,Project Description
+1,My project idea is to make a calendar or task manager.
+3,"I want to build an algorithm that pairs individuals based on their compatibility in terms of personality and political views and how well they would get along. For work partnering, school partnering, dating apps, etc."
+4,A simple game.
+8,Skin Cancer Detection Program
+10,A bike lending app
+18,"Transit Planner
+A web application that allows the user to plan and organize their weekly transportation between classes and periodic events by incorporating the bus system, their own schedule table, as well as alternatives such as biking and walking. "
+19,A Dining Hall social media platform that allows students to share their food experiences and wait times at the dining halls. 
+30,"- CollegeConnect 
+- App that pairs high school students with college students via messaging so that they can ask any questions they might have"
+36,"This project would use machine learning on a user's phone usage data in order to help them optimize their study and sleep times, as well as show them how their focus changes throughout the day. "
+40,"Space Trucker Game - Make deliveries across the galaxy while also coming across random encounters. 2D, layout and sound design is Papers Please - esque. "
+43,It would be a data science project in which people who enjoyed certain courses and/or professors at UIUC would be recommended courses/ professors that match your interest and future academic goals. 
+48,An App that takes user input in order to recommend local restaurants and dishes based on your preferences 
+51,"This project idea is based off a project I worked on with a team in high school for a competition. The demo made for the competition wasn't made public, but this project could become a web application that is publicly accessible for a larger impact. 
+
+This project would be a data visualization dashboard that shows disparities in voter turnout. The visualization would consist of a map of the US, split into states. By default, the states would be shaded according to overall voter registration (with darker shading indicating a higher registration percentage). Users could also look at voter turnout or ease-of-voting instead of registration. Toggles would be included so that users can fine-tune what population they are looking at by race, gender, and age.
+
+For example, a user can choose to only look at each state’s Latinx and African American populations or only look at each state’s female population. With the toggles, users can look at demographics with great precision. For example, a user could look at something as specific as the ease-of-voting for the female African American population between 18-24 years old."
+53,Qvision - App that displays the number of people standing in each line in each dining hall on campus. This data is provided by cameras using Computer Vision.
+57,Finance Tracker. This app will allow users to input their transactions and make a budget to stick to. It will categorize expenditures and allow users to see what they are spending the most money on and possibly make suggestions on what areas could be cut back on to save money.
+62,Mapping restaurant day-to-day excess food that they're required to throw out to homeless shelters/etc
+64,Personal Radio (Website/App)
+69,"An interesting project would be to do something similar to the software product J.P. Morgan use for their trading desk. It is called Perspective and can be seen here, it is open-sourced: https://perspective.finos.org/. Data visualization components and gaining insight from big data sources is something that is versatile in many cases, from trading, spatial analysis, corporate consumer insight for example. The details and specific use case can be determent later in the group. However, I believe this project would be a good simulation for what modern real-world project would entrain, complex front-end and many customization,  back-end that has a high throughput and is high-frequency, and potential cloud distributed implementation for serviceability and maintainability."
+70,"TweetStreet
+
+This project aims to analyze Twitter data to assess market sentiment and its potential impact on stock prices. It involves collecting and analyzing tweets related to financial markets to provide insights into the sentiment trends and their correlation with stock price movements."
+73,StutterOn is a free speech therapy tool that provides stuttering therapy resources to those who cannot access it for free.
+75,"3D Modular Weapon System for video games
+
+This system would target primarily game developers, and would be an asset that they could add into their own projects to help design and construct weapons for their games. It would allow for the user to customize their weapons by adding/taking away attachments, which would affect the stats of the weapon and the actual mechanics of how the weapon functions. "
+76,ARC/CRCE Crowd Tracker
+86,"2D-RPG game project with elements of puzzles, exploration, and progression
+set beyond this world, a numb and despairing character explores everything around and starts to gain feelings"
+90,Location Based Reminders App
+95,"""UIUC Food""
+A mobile application (based off of a Python backend), linked with various restaurants in the Champaign-Urbana area, that would use ML to specifically recommend restaurants based on one's particular eating tastes (i.e. restaurant reviews left on the app, and the views of similar reviewers on related restaurants)."
+98,"Project Name: HealthGPT (not final)
+
+General Description: The end goal for this project would be to create an LLM trained on available data about illnesses, their respective symptoms, and the possible at home treatments for the specific illness. 
+
+How I imagine it will work: Any user can open this app up like chatGPT, the LLM will prompt the user to input symptoms, and ask other necessary questions and come up with the possible illness and proper treatment."
+99,"Study spot locater
+Either a mobile app or a website for searching for study spaces. Can filter search by hours open (current time), level of noise, distance from current location, group study or solo study, study resources (tutoring), charging, food allowed, etc."
+112,I would like to create a program in which an input picture and symptoms are given and the program can identify the skin disease/allergy that occurred. 
+115,"Create an application that will act as a centralized hub for events on the UIUC campus. Students and faculty can both use this app to post and raise awareness about certain events that will be held on campus, as well as communicate with event coordinators to ask and/or answer questions about their events. "
+124,My project would be a mobile application that helps students not to become a procrastinator. It would have a calendar and a daily reminder. Students will be able to make their own to-do list where they can add and check off their duties. It would also help them focus and get the most out of their study time using a pomodoro timer that sends an alert when they leave the app to get them back to work.
+128,An app that tracks your workouts and gives you reminders
+132,Full-featured web or desktop chat application with integration between other platforms
+133,A platforming game in which 4 players try to grab the most coins on a certain level.
+137,"A mobile app to help college students manage their health and well-being. It would combine step tracking, nutritional guidance, and personalized health insights into one convenient platform."
+139,"An interactive visualization of energy resources, including data on what they are and aren't good for in multiple different categories."
+140,"I will be creating an isometric puzzle game with a slight story element. I hope to create a game that focuses on the perspective of a character from a (currently undecided) Shakespeare play, and the puzzles will reflect their journey throughout the story. The final project would resemble some of those cheap movie-to-game ports on handheld consoles."
+144,A program that analyzes the data of sports players in different sports and compares them with each other to determine which sports bets are profitable or not.
+148,Personal Secretary 
+150,"This application is an app or website that will connect you to another student at UIUC based on similar interests (could be classes taken/being taken, music taste, major, etc.). It will be designed to help freshman or people of other grades make friends. "
+151,"The project would be a pitch recognition software which would present pitches and chords from audio input, either from a file or live input. These pitches would then be presented on a piano GUI for visual feedback."
+158,To do list
+175,Using AI to optimise traffic flow in cities
+180,Python program that helps predict stock price trends to a certain degree with machine learning.
+185,I would like to make a 2D adventure game 
+192,"I want to make something that can modify the Spotify app by adding lots of features. For example, being able to add folder covers. Creating an automatic playlist for the most recently added 50 songs and most recently played 50 songs. Color/background customization for the app. Lastly, a custom tagging system for playlists."
+194,Creating a game
+202,Web app that gamifies menial tasks
+208,An application that allows physically impaired users to type and operate a computer using only facial movements.
+210,Create a fake news detection system. Be able to look up any news article and see if it is from a credible source or not.
+212,"A website that can tell the user, based on their input, if they are at risk of having heart failure. "
+216,"""Workout Buddy"" - A program which takes pictures of muscles on your body (such as abs, biceps) and develops a custom workout plan with that and the user's fitness goals which they manually input. User can keep track of goals with an auto-generated calendar and can Then if you meet the goals it lays out for you, it generates a motivational message. If time allows I would add a feature where the app analyzes you doing exercise and provides feedback (to fix form, posture, etc.)"
+224,A Machine Learning project that creates a schedule for a user's future semesters at UIUC based on imports of the classes they are required and wish to take. 
+242,"This project would be a scheduling app for my high school. Right now, my high school uses an app called Saturn, but recently Saturn has raised privacy and bullying concerns. If I can make an app that is specifically for my school(with the mascot and school pride slogans, similar to the Illinois App), then maybe my principal would consider it. If not, I could simply remove the high school aspect of it and make it a scheduling app for anything. Although there are many scheduling apps out there, I would get good practice out of this and I could also add features that you would otherwise have to pay for if you were to want one on the app store."
+244,An app or website that can measure the wait time for each restaurant at each dining hall at UIUC. There is an opportunity to make this larger scale and apply this to different universities.
+249,Accurate celebrity look-alike game. 
+254,to use machine learning to come up with combinations of midfielders that are most effective in the field.
+266,A chrome extension which links to moodle and canvas which can help university students connect with other people based on niche problems they may have.
+272,Personal Finance Application for UIUC students specifically.
+273,An app which allows students to meet with seniors/ people who have passed out of the college and see what they are doing. You will get to know their major and what club's they took in their college years and additionally gain some information about how to fare well in college
+279,"A skincare website that analyzes the ingredients in skincare products to help you find a routine for the products you already have, and tells you if there are ingredients in the products that are incompatible and will react badly."
+282,A program that helps individuals keep up to date with the astronomy field.  Event notifcation and daily fun facts keep them interested.
+288,Trading App
+317,Basketball Simulator - A program that uses all the information about the players on a team and simulates a game between any team in the league. 
+324,"A mobile app that helps people decide where to go eat. There can be either a random generator of the restaurants the user puts in, or the app takes your location and how far you're willing to travel and randomly picks a restaurant given your preferences. "
+326,decision maker: helps users make decisions by creating pro and con list and storing past decisions
+328,An app that lets you insert all of your classes and create to-do lists for each of them.
+335,"A mobile flashcard app that is meant to make the experience of studying more fun by using a similar function as the game ""Heads Up"". "
+342,A second idea is creating music recommender systems. This involves detecting what kind of music a user likes and developing recommendations as playlists for each person to listen to based on what they like.
+348,"An app that you can take around with you wherever you go, and if you reach a building or monument and you are curious about the historical significance or any historical event that has taken place there it will tell you. "
+351,An app that allows users to rank dining hall food options and then uses these ranking to determine menus and overall dining hall ranks for certain days depending on the food they are offering.
+353,Dice game 
+366,A program that helps the user pick and plan a life path.
+375,Python program that helps predict stock price trends to a certain degree with machine learning.
+376,Self-Service Registration schedule generator tool for picking classes based on wide list of user preferences.
+378,The project idea is to develop a website or app that analyzes a user's YouTube search history to identify their interests and then connects them with others who share similar interests. This platform aims to provide users with an easy and fun way to meet people who have common interests based on their YouTube usage patterns.
+383,"An app for calorie tracking for anyone trying to gain or lose weight. This app would essentially allow users to reach their fitness goals by giving them a realistic plan to build up to their calorie goal based on their current health metrics, such as their age, height, weight, and more."
+386,"Weightlifting/Calisthenics Skill Tree app. Would transform one's fitness journey to feel like a game. Similar to how you gain experience (XP) in games to level up certain stats on a character, the app would utilize progressive overload to level up stats such as push/pull/legs (or maybe even specific muscle groups). "
+389,quote finder
+390,Create a program that predicts how an NFL team will preform during the season 
