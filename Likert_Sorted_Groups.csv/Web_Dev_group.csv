@@ -1,0 +1,86 @@
+User,Project Description
+5,A program to detect mental health illnesses
+25,"Android development -- kotlin/java program on mobile devices
+UIUC Food Leaderboard"
+36,"This project would use machine learning on a user's phone usage data in order to help them optimize their study and sleep times, as well as show them how their focus changes throughout the day. "
+47,"This project would gather data from Yahoo Finance or MSN Money, find important numbers from a chosen company's financial statements, and plug them into a spreadsheet. The spreadsheet would organize the numbers by category and year and make them green or red, based on which numbers meet/exceed Warren Buffett's standards and which numbers don't"
+48,An App that takes user input in order to recommend local restaurants and dishes based on your preferences 
+51,"This project idea is based off a project I worked on with a team in high school for a competition. The demo made for the competition wasn't made public, but this project could become a web application that is publicly accessible for a larger impact. 
+
+This project would be a data visualization dashboard that shows disparities in voter turnout. The visualization would consist of a map of the US, split into states. By default, the states would be shaded according to overall voter registration (with darker shading indicating a higher registration percentage). Users could also look at voter turnout or ease-of-voting instead of registration. Toggles would be included so that users can fine-tune what population they are looking at by race, gender, and age.
+
+For example, a user can choose to only look at each state’s Latinx and African American populations or only look at each state’s female population. With the toggles, users can look at demographics with great precision. For example, a user could look at something as specific as the ease-of-voting for the female African American population between 18-24 years old."
+57,Finance Tracker. This app will allow users to input their transactions and make a budget to stick to. It will categorize expenditures and allow users to see what they are spending the most money on and possibly make suggestions on what areas could be cut back on to save money.
+78,"An integrative uiuc app which allows you to meet freshman and other students studying in the campus, you can view their major, where they are dorming at and what their intrests are. Additionally, the app will constntly promote events and oppurtunities (such as a soccer match, or a subway dinner) where you can meet up with and chat with your fellow peers"
+81,A solver for Poker that gives pre-flop playing suggestions 
+95,"""UIUC Food""
+A mobile application (based off of a Python backend), linked with various restaurants in the Champaign-Urbana area, that would use ML to specifically recommend restaurants based on one's particular eating tastes (i.e. restaurant reviews left on the app, and the views of similar reviewers on related restaurants)."
+100,It is a puzzle game that requires using one stroke to connect all the the girds in the background. 
+103,"My first project idea is an app or website in which students can upload real-time photos and reviews of the dining hall food at each restaurant within each dining hall. While the Illinois App features menus for each dining hall, there have been instances in which the app was incorrect or the food was not as advertised.  "
+112,I would like to create a program in which an input picture and symptoms are given and the program can identify the skin disease/allergy that occurred. 
+114,"My project will recommend songs from the user's playlist based on the mood/emotion the user types in. Whenever a song is added to a playlist, my project will sort it into various emotions by analyzing the lyrics, pitch, tempo, and sound level. "
+126,An Automatic YouTube Playlist Downloader. Could be used by students who do self learning from YouTube videos. Downloading lectures and creating playlists. 
+131,financial tracker: program that lets the user easily track their expenses
+134,"A Google Chrome extension/web app that builds a student learning community for all courses, where students help each other with course-specific questions."
+138,"A productivity website that keeps track of your goals and habits, holding you accountable for your actions."
+139,"An interactive visualization of energy resources, including data on what they are and aren't good for in multiple different categories."
+147,One idea is to create chatbots where people can engage with AI bots and make conversation. This involves asking questions to get information or just taking about everyday things. 
+148,Personal Secretary 
+152,"I want to create an AI chatbot that teaches people how to handle both personal finances their income wisely and for future prosperity. This chatbot seeks to provide a personalized and interactive learning experience by making complex financial ideas understandable to a wider audience than is currently available, along with making common books and literature more accessible to users. Users can explore various financial topics such as budgeting, saving, investing, debt management, and retirement planning along with having conversations, asking questions, and seeking advice through the platform. Ideally, the chatbot could use user-provided data to offer individualized recommendations and advice based on each user's particular financial status and future plans. Furthermore, it includes interactive financial simulations that allow users test out specific financial scenarios and get immediate feedback on their decisions."
+164,"Stock Market Analysis / Predictor:
+This app will be able to analyze stock values of companies in the past and predict the price in the future; The user will select a company of which they are interested in investing into, and the app will predict the future trends for the company's stock. "
+175,Using AI to optimise traffic flow in cities
+176,An application that suggests adding events to a calendar or a reminder list based on information in the email inbox from subscribed/selected groups that the user receives
+184,"A typing practice website for a foreign keyboard.  The keyboard layout I want to use isㄅㄆㄇㄈ (known as Zhuyin), which is used in Taiwan."
+186,I want to design a website to gather some resources in quantum physics.
+189,Campus Restaurant Generator
+214,Internet Wishlist
+219,"Artificial Intelligence (in general). It is something I want to learn how to code, or know how it works. I would like to be in a project that deals with AI, or make an AI engine that can essentially detect your mental health and give you feedback on how to improve yourself and help you make decisions, etc."
+224,A Machine Learning project that creates a schedule for a user's future semesters at UIUC based on imports of the classes they are required and wish to take. 
+229,3D Hack and Slash game similar to that of Devil May Cry and such that allows for a careless approach or a more methodical approach.
+232,"""AI-Generated Art Detector""
+Detects if an art piece is created by AI or humans"
+236,"I was thinking of making a UIUC Community Resources Directory. A user could input what they need help with, whether it be mental health, physical health, tuition, career help, tutoring, etc. The website could return the names of the centers, professors, and staff that could help, complete with phone numbers and a synopsis of what the resource is/provides.  "
+254,to use machine learning to come up with combinations of midfielders that are most effective in the field.
+258,A way to connect with your long-distance friends by sending them cute drawings everyday.
+259,A companion piece of software for hex based TTRPG
+260,App for local artists use to sell their work
+261,The machine learning algorithm that will translate the texts of the book 
+262,"AI Personal Finance Manager App - In this project, we would build a personal finance app that uses AI for expense categorization, predictive financial insights, investment recommendations, and payment reminders. It would empower people in developing/underdeveloped countries to manage their finances more efficiently and make more informed financial decisions. "
+275,"Automatic Cycling Tracker
+
+An app that automatically detects when users start/stop bike rides and logs these rides."
+278,A easy-play game that player control the character to chase the NPC in a labyrinth. There are other NPC prevent the player.
+279,"A skincare website that analyzes the ingredients in skincare products to help you find a routine for the products you already have, and tells you if there are ingredients in the products that are incompatible and will react badly."
+280,A web app that that integrates machine learning to make nutritional plans for users.
+289,Web/Mobile application that help user with individual soccer training through a library of training drills and videos and machine learning algorithms to suggest personalized training plans.
+303,Scholarship Matching Website
+306,Train a machine learning algorithm to detect handballs in professional soccer matches.
+311,Hooked: An app to stay hooked to your favourite songs
+324,"A mobile app that helps people decide where to go eat. There can be either a random generator of the restaurants the user puts in, or the app takes your location and how far you're willing to travel and randomly picks a restaurant given your preferences. "
+336,"A map app that crowdsources and locates essential public services such as trash cans, bathrooms, mailboxes, etc. while prioritizing accessibility needs and preferences such as whether or not they're wheelchair-accessible."
+337,"""Shelf Seeker""
+
+(Java)
+
+A program that allows the user to select from a list of themes in literature and returns an array of different books that have those themes present (based on data grabbed from web sources) that the user chose.
+
+Example:
+
+(Input) Selected themes: Ambition, Morality, Corruption, Hubris, Self-Destruction, Manipulation
+
+(Output) Books: Macbeth, The Great Gatsby, The Red and the Black"
+338,Food Rating website with authentication of users
+345,"This project is a website that will recommend books that will help further your academic career based on answers to a few questions like major, topic of interest, etc. the recommendation will be generated by using information found on goodreads profiles (that dataset might not be publicly available so many something else)"
+347,Stock market analysts and even people who enjoy trading as a side hobby could use a tool that goes through popular and relevant news websites to gather information about the stocks a user owns or has on a watchlist to help users make more informed decisions about how they trade on the stock market. This project is a web scraper that compiles and sorts through information on the internet to find both unbiased and accurate data for users to learn from without having to read large amounts of literature.
+349,An app that helps people fill out FASFA.
+354,Fake news detector. Python program that helps online news readers find out what sources are credible or fake.
+357,A calendar for people to write down what they have to do. The app will give reminders so that people won't forget/procrastinate.
+361,Using AI/ML to create algorithms to help people boost their platforms on different social media. 
+363,"Hairstyle recommender
+Recommends hairstyles based on facial features and user preferences. They will create a profile that includes information like hair type, hair color, preferred hair length, and style preferences. Additionally, they can virtually try-on the recommended hairstyle or image overlay technology. "
+372,"a website that serves as an online platform for mental health. this includes mental resource section, potentially an art section where users can essentially practice a limited form of art therapy, audio files and meditation links, etc."
+376,Self-Service Registration schedule generator tool for picking classes based on wide list of user preferences.
+383,"An app for calorie tracking for anyone trying to gain or lose weight. This app would essentially allow users to reach their fitness goals by giving them a realistic plan to build up to their calorie goal based on their current health metrics, such as their age, height, weight, and more."
+386,"Weightlifting/Calisthenics Skill Tree app. Would transform one's fitness journey to feel like a game. Similar to how you gain experience (XP) in games to level up certain stats on a character, the app would utilize progressive overload to level up stats such as push/pull/legs (or maybe even specific muscle groups). "
+389,quote finder

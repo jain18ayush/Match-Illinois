@@ -1,0 +1,61 @@
+User,Project Description,BERTopic,LDATopic
+157,"program use ""search up"" tell information internet someone using/selling information.",-1,0.0
+304,Weather notifier app gives notification local weather data,-1,0.0
+325,"project design ML application that, given national environmental survey data, would calculate popularity / probability passing certain climate policy, e.g., national carbon tax.",-1,0.0
+352,app people rank best items menu restaurant post others want visit restaurant see.,-1,0.0
+265,"VARGuard project aims implement risk management system, specifically focusing calculating analyzing Value Risk (VaR) portfolio assets. involves mathematical modeling optimization estimate potential loss value portfolio specific time horizon given confidence level.",-1,1.0
+286,Signature verifier,-1,1.0
+322,app guide people take better pictures using ML analyze popular pictures social media,-1,1.0
+20,"""Singronized"" - Mobile Application compares singing (key, lyrics) actual songs, give indicators based voice detection improve accuracy user's singing.",-1,2.0
+212,"website tell user, based input, risk heart failure.",-1,2.0
+217,"ecommerce platform serves intermediary consumers food producers. intermediary, create community potential customers directly contact various food producers without us needing hold stock. result, allow lower middle income users purchase food lower price create community focus minimizing waste.",-1,2.0
+204,something ai,-1,3.0
+116,WebScraping Sentiment Analyser,-1,4.0
+245,data visualization machine learning project bioinformatics and/or computational biology 1) Human Disease Genetic Basis Identification (could app!) 2) Cancer tumor identification classification medical images,-1,4.0
+356,web service allows keep track classes means transportation them.,-1,4.0
+21,"""FasterHelp"" - web mobile application students need tutors search UIUC campus area students willing tutor, notifications pop up, students willing tutor take schedule meeting student. kind like Uber, except tutors.",0,
+22,"project different activities inside mobile application tests common characteristics person intoxicated state. make sure tests consistent, player basically sit hold phone upright. score certain threshold, application flag you, app send text message friends family, share location immediately call ride back home.",0,
+28,Bus Tracking App. mobile app displays active MTD bus routes GPS location buses map access GPS location (using Google Maps base),0,
+58,"fitness diet tracker allows user input meals, tracking number calories quantities macro- micronutrients, also input exercises, tracking areas body targeted, calories burned, etc. Possibly, tracker could also make recommendations (do exercise trends done week, meet caloric goal want gain lose weight, etc.)",0,
+91,Music Recommendation Algorithm,0,
+135,"app creates network teens looking small temporary jobs. targeted teens starting enter workforce able simple labor tasks people need it. Whether simple garden work elderly people, others need labor workers simple temporary jobs. also type interview process able accept jobs people posy requests them. would allow secure safe approach asking people help. app simple navigate vital resources needed app.",0,
+145,"App includes apartments available rent students, info features more. Filters possible apartments based location relative classes based major, prices willing pay, features. Could also respond user input linked reviews apartment.",0,
+154,app shows allergy-friendly restaurants area,0,
+169,project would help promote healthy lifestyle terms mental physical health. would calendar app would help find times day incorporate adding physical activity. would also give suggestions activities user exercise suggestions de-stressors.,0,
+187,"app focused helping students UIUC find study groups. use interface similar tinder help find peers classes, share interests, etc. helps build connections community.",0,
+205,app make pdfs accessible,0,
+226,health tracker application coordinated dining hall menu (so meant specifically freshman) students track meals workouts.,0,
+234,Roommate finding application,0,
+238,"recently trying get shape completely lost gym achieve fitness goals, app helps guide people lifting routine, cardio routine, eating habits order help optimize time keeping would helpful, especially busy college students.",0,
+253,"Music recommendation tool recommends music listeners time period released would play radio together, based sounds music, content lyrics, etc.",0,
+256,app gives recommendations movies/shows/books/songs based previous entries given application.,0,
+288,Trading App,0,
+292,"""Daily Task"" app helps organize to-dos list. list certain day (can also include alarm-like reminders app IOS) one thing finished, moves day check work done see day —> week —> month see tasks done IOS app compatible phones, iPads, Macs.",0,
+307,"would want create website serves online journal. Everyday certain time, send notification college student user ask stress level ask user journal. Depending consistency stress level, website analyze cause stress (through journal) send user recommendations reduce it. example stress overload homework, journal may suggest yoga meditation. stress lack human interaction, journal may suggest clubs depending person's interests.",0,
+312,"Fitness tracking mobile app users type need, suggest videos Users type goal, app help analyzing Users input daily fitness food, app helps analyzing works",0,
+315,health tracking APP,0,
+318,Mood Tracking App - app users check track mood. able record feelings take notes felt day track mood time. app notify user specific time end day input data day.,0,
+331,"app focus helping people create maintain garden. get tips reminders promote well-being plants. Users also able upload progress plants, get specific relevant feedback tips.",0,
+364,"app would help budgeting analyzing weekly spending patterns. user would input weekly spending earnings app would track ""non essentials"" suggest ways save",0,
+377,lightweight productivity&planning app pull assignment deadlines various platforms.,0,
+382,"music recommendation system across campus. using machine learning also user recommendations, helps recommend users music may enjoy, well maybe local concert/ music events attend. also helps connect may enjoy similar music tastes, help build connection community help people meet new people similar interests.",0,
+387,app runs similarly Twitter goal build community access people within certain small mileage you.,0,
+388,"Counts calories, fat, sugar, etc foods input user",0,
+27,software would match shirt outfit based similar shirts worn online.,1,
+119,"Gardening website, users input information like soil type (clay vs loam vs sand), location, want plant (aesthetics, food, ground cover), harvest time, get recommendation plant.",1,
+143,Create website gives expected value football basketball player pick parlay based data scared statistics sites odds selected platform (prizepicks/fanduel/draftkings),1,
+182,"Iris Pointer, python program enables computer users control position cursor turning eyes around. utilizes computer vision face tracking iris tracking.",1,
+193,"Program compiles list data provides number visualization tools tools facts, graphs, etc.",1,
+264,Using ML algorithms modern framework like Pytorch Tenserflow classification Twitter posts getting sentiment forum posts company website. would,1,
+316,artificial intelligence detect emotional tone speech.,1,
+321,"Sign Language Translator Speech- Impaired. Using camera, could make signs ASL, would translated text speech.",1,
+355,AI driven Mental health chat bot/generated ai thing like gideon flash mimick human Mental health extremely important aspect people. Many individuals struggle mental health issues may easy access professional help. AI-driven mental health chatbot valuable project combines computer science healthcare address issue.,1,
+384,Flashcard Software,1,
+390,Create program predicts NFL team preform season,1,
+84,"I'm interested making mobile game, probably 2D dungeon crawler genre type game. would probably coded Kotlin android game. I'm sure implement anything right since experience, hope also make graphics game since experience art digital art.",2,
+142,"""T E R ' D"" (Game Development) (Java) Originally web animation, idea stickman finds middle giant game Tetris tries avoid crushed falling blocks.",2,
+203,"video game building realm world that's similar Minecraft. would focused character, taking building blocks navigating world placed into.",2,
+233,"would create point-and-click puzzle murder mystery game, player navigate atmospheric little town solve cryptic unsettling deaths several inhabitants. would involve deciphering riddles, solving puzzles unlock secret mechanisms, piecing together clues interactive evidence board.",2,
+296,VR Maze Simulation AI add challenges things towards way make harder complete course. course also randomly change paths front make hard complete.,2,
+334,"Card game- Make card game somewhat like Hearthstone Magic (but much simpler, obviously). I'm sure would feasible new CS student would pretty basic, like idea.",2,
+373,Life college student Simualtion college student recreation UIUC campus. cozy 2D open world game (stardew valley vibe?),2,

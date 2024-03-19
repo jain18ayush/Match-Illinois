@@ -1,0 +1,89 @@
+User,Project Description,BERTopic,LDATopic
+23,"SignIFY' - Real-time Language Translation Sign Language. would like create system translate sign language gestures spoken language real time, making communication accessible deaf hard hearing.",-1,0.0
+92,"1. Parent-Child Chores App app would two interfaces, one parent one child. parent interface would allow parents set chores deadlines incentives, including limited screen time, money, toys, etc. child would able verify completion tasks submitting image proof completed task, parent could approve completion release reward app.",-1,0.0
+99,"Study spot locater Either mobile app website searching study spaces. filter search hours open (current time), level noise, distance current location, group study solo study, study resources (tutoring), charging, food allowed, etc.",-1,0.0
+123,"Trip Itinerary Website - website helps users plan trip based selected location, duration trip, number total guests. website give user activities popular attractions see rough estimates much cost per guest.",-1,0.0
+223,"Multiplication Tables Game App Website. app website displays simple multiplication problem (i.e. 12 x 12, 4 x 6, etc.) user answer many certain time span (like 1 minute). Could expanded cover division math problems time",-1,0.0
+3,"want build algorithm pairs individuals based compatibility terms personality political views well would get along. work partnering, school partnering, dating apps, etc.",-1,1.0
+76,ARC/CRCE Crowd Tracker,-1,1.0
+173,"want create app provides support elderly emergency situations essentially try send help soon possible notifying someone app clicking button, somebody able come rescue them.",-1,1.0
+196,create neural network.,-1,1.0
+210,Create fake news detection system. able look news article see credible source not.,-1,1.0
+242,"project would scheduling app high school. Right now, high school uses app called Saturn, recently Saturn raised privacy bullying concerns. make app specifically school(with mascot school pride slogans, similar Illinois App), maybe principal would consider it. not, could simply remove high school aspect make scheduling app anything. Although many scheduling apps there, would get good practice could also add features would otherwise pay want one app store.",-1,1.0
+378,project idea develop website app analyzes user's YouTube search history identify interests connects others share similar interests. platform aims provide users easy fun way meet people common interests based YouTube usage patterns.,-1,1.0
+69,"interesting project would something similar software product J.P. Morgan use trading desk. called Perspective seen here, open-sourced: https://perspective.finos.org/. Data visualization components gaining insight big data sources something versatile many cases, trading, spatial analysis, corporate consumer insight example. details specific use case determent later group. However, believe project would good simulation modern real-world project would entrain, complex front-end many customization, back-end high throughput high-frequency, potential cloud distributed implementation serviceability maintainability.",-1,2.0
+141,"COVID-19 heat map based different demographics Though COVID-19 heat maps become redder based many total cases area, one I'm thinking filters depending demographics want see (such race, gender, socioeconomic class, religion, etc.)",-1,2.0
+166,using data AI give solutions business owners problems,-1,2.0
+281,Advanced AI chater Turning form text inputs outputs ChatGPT video inputs outputs,-1,2.0
+360,"""RideShare"" - program enables users connect people willing drive another individual long distances split gas money (one person posts trip car people may request rideshare save gas expenses, split costs)",-1,2.0
+366,program helps user pick plan life path.,-1,2.0
+118,interview preparation website prompts user behavioral (and maybe even technical) questions. could potentially judge user's responses using AI. Responses could either spoken typed (spoken would definitely difficult).,-1,3.0
+151,"project would pitch recognition software would present pitches chords audio input, either file live input. pitches would presented piano GUI visual feedback.",-1,3.0
+272,Personal Finance Application UIUC students specifically.,-1,3.0
+283,"program focuses helping teachers manage classroom quiet time. consist kind natural landscape, small animals appearing quiet time continues. Loud noises ""scare"" animals away.",-1,3.0
+329,Analyzing effect misinformation campaigns adversaries nation states tweets subsequent reaction citizens.,-1,3.0
+351,app allows users rank dining hall food options uses ranking determine menus overall dining hall ranks certain days depending food offering.,-1,3.0
+367,Gift Recommender - application analyzes friends relatives social media accounts suggests specific products would like receive gifts.,-1,3.0
+8,Skin Cancer Detection Program,-1,4.0
+41,"project idea Recipe Finder. idea people, particularly students, could input ingredients homes refrigerators, possibly appliances disposal, based data various online resources cookbooks, website could return recipe fits ingredients appliances person inputted. could also return similarity score (eg: recipe 80% match ingredients). potentially thinking adding nutrition facts well, recipes returned could address daily nutritional needs.",-1,4.0
+61,"mobile app similar google maps, gives map every bathroom/water fountain campus.",-1,4.0
+121,want build app would allow people simulate simple circuits solve circuit problems,-1,4.0
+153,"app monitors much pollution emit, help people reduce carbon footprint. would help users make eco-friendly decisions giving small tips based behavior patterns.",-1,4.0
+208,application allows physically impaired users type operate computer using facial movements.,-1,4.0
+335,"mobile flashcard app meant make experience studying fun using similar function game ""Heads Up"".",-1,4.0
+64,Personal Radio (Website/App),0,
+80,Classical Music Recommender app recommends classical music pieces users based pieces liked past.,0,
+85,social media people like listen music.,0,
+109,idea project suggest new music user based existing spotify history.,0,
+128,app tracks workouts gives reminders,0,
+136,"think would cool app makes playlist based workout person going. app would tailored workout's type, length, level difficulty. instance, light job would different list songs sprint. Also, person weights, could use playlist includes number songs number sets song switches every time person starts new set. could indicated app either voice detection, touch screen, press button, time.",0,
+158,list,0,
+192,"want make something modify Spotify app adding lots features. example, able add folder covers. Creating automatic playlist recently added 50 songs recently played 50 songs. Color/background customization app. Lastly, custom tagging system playlists.",0,
+209,"mobile app that's kind like period tracker showers, add friends compete them. ""by engineers, engineers"" type deal yknow",0,
+213,Daily Wear web app helps user decide wear day recording clothes arranging combinations certain basic fashion rules mind. (E.g. make whole combination color there's obvious change texture pattern clothes),0,
+285,Tech Support App,0,
+287,"2. Biometric mood recognition Use biometric markers available apple watch, fitness trackers, heart rate trackers gauge users' moods mental health. model ideally trained readily available biometric data heart rate, blood pressure, breathing, useable apple watches fitness trackers gather biometric data.",0,
+309,social media user post one photo one song per day.,0,
+314,"""Where's mobility aid?"" - AI trained tool vision impaired people find mobility aid. Users take picture surroundings upload (big, colorful buttons app) answer questions (is cane/walker, color etc) app tell far away direction.",0,
+379,Alarm clock test formulas (for android? never used apple),0,
+380,automatic music import algorithm,0,
+1,project idea make calendar task manager.,1,
+10,bike lending app,1,
+15,"first project idea UIUC event locator. would basically able go list events held day (RSOs, Office hours, Info Meetings, etc). find event details (time, location, bus) one place.",1,
+49,project would website visualization Illini-Alert.,1,
+65,"program somebody calls user user pick up, program check microsoft / google calendrer user middle event meeting , automatic notification sent telling person originally called user likely available",1,
+98,"Project Name: HealthGPT (not final) General Description: end goal project would create LLM trained available data illnesses, respective symptoms, possible home treatments specific illness. imagine work: user open app like chatGPT, LLM prompt user input symptoms, ask necessary questions come possible illness proper treatment.",1,
+124,project would mobile application helps students become procrastinator. would calendar daily reminder. Students able make to-do list add check duties. would also help focus get study time using pomodoro timer sends alert leave app get back work.,1,
+130,"project would design interactive website Project4Less, food-recovery RSO aims reduce food waste campus addressing food insecurity Urbana-Champaign community.",1,
+167,"assignment compiler given web address, login information would, class name would monitor class websites compile assignments, descriptions, due dates, (maybe) contents one location.",1,
+282,program helps individuals keep date astronomy field. Event notifcation daily fun facts keep interested.,1,
+348,"app take around wherever go, reach building monument curious historical significance historical event taken place tell you.",1,
+4,simple game.,2,
+75,"3D Modular Weapon System video games system would target primarily game developers, would asset could add projects help design construct weapons games. would allow user customize weapons adding/taking away attachments, would affect stats weapon actual mechanics weapon functions.",2,
+120,breakout 2D game,2,
+140,"creating isometric puzzle game slight story element. hope create game focuses perspective character (currently undecided) Shakespeare play, puzzles reflect journey throughout story. final project would resemble cheap movie-to-game ports handheld consoles.",2,
+170,2D puzzle game like supermario new element,2,
+201,level-based puzzle game switch top-down side-scrolling sections complete spatial puzzles.,2,
+257,education game children based Google's Quick Draw dataset; draw pictures output word drawing represents,2,
+269,Competitive line-graphing game,2,
+299,1v1 online card-based game fantasy setting unique gimmicks,2,
+358,"real time multiplayer version sliding block puzzle game. goal game rearrange blocks get specific configuration. player solves first, wins. web application could also give user variety puzzles choose from.",2,
+33,Paper Trading Web App: platform functionality real investing website uses fake money. app would allow user actively manage portfolio execute trades real-time simulated environment.,3,
+45,"Simple Portfolio Tracker Analyzer allows users track analyze performance investment portfolio. Users able input investment holdings, including stock tickers, purchase prices, quantities. program provide various quantitative metrics visualizations help users assess portfolio's performance.",3,
+55,"Create program screens companies trading global stock exchanges, chooses good investment candidates based user-controlled input criteria, displays user-friendly manner user look company wish.",3,
+70,TweetStreet project aims analyze Twitter data assess market sentiment potential impact stock prices. involves collecting analyzing tweets related financial markets provide insights sentiment trends correlation stock price movements.,3,
+77,Web scraping project analyze compare firms' financials.,3,
+144,program analyzes data sports players different sports compares determine sports bets profitable not.,3,
+180,Python program helps predict stock price trends certain degree machine learning.,3,
+339,"program predict crime rates specific area. take things income, unemployment, population, return safe place crime rate.",3,
+350,"Stock Price Prediction Mobile App: ""Stock Price Prediction Mobile App"" project aims develop mobile application (available iOS Android) assists users predicting future stock prices given company stock symbol. app collects historical stock price data, pre processes analyzes using machine learning techniques, provides users predictions visualizations. Key features include real-time data fetching, data preprocessing, machine learning model integration, user-friendly interface, performance evaluation. project empowers users make informed investment decisions offering accessible stock price predictions, making valuable tool novice investors looking enhance stock market knowledge.",3,
+375,Python program helps predict stock price trends certain degree machine learning.,3,
+19,Dining Hall social media platform allows students share food experiences wait times dining halls.,4,
+30,- CollegeConnect - App pairs high school students college students via messaging ask questions might,4,
+53,Qvision - App displays number people standing line dining hall campus. data provided cameras using Computer Vision.,4,
+150,"application app website connect another student UIUC based similar interests (could classes taken/being taken, music taste, major, etc.). designed help freshman people grades make friends.",4,
+174,"aim first idea develop enhanced version commonly used iClicker, device checking attendance conducting quizzes multiple-choice questions. enhanced iClicker attempt use simpler programming provide seamless efficient experience students instructors.",4,
+199,pathfinder indoor buildings,4,
+244,app website measure wait time restaurant dining hall UIUC. opportunity make larger scale apply different universities.,4,
+251,chrome extension connects students question course another student taken course before/is confident material.,4,
+340,"Mobile app allows students pick dining hall specific food ate every meal give rating, based that, suggest what/where eat given day using menu every dining hall using previous ratings make decision.",4,

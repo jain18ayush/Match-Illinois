@@ -1,0 +1,82 @@
+User,Project Description
+20,"""Singronized""
+- This will be a Mobile Application that compares the singing (key, lyrics) to that of the actual songs, and give indicators based on the voice detection to improve the accuracy of the user's singing.
+"
+21,"""FasterHelp""  - A web and mobile application where students who need tutors can search the UIUC campus area for students who are willing to tutor, and when notifications pop up, students who are willing to tutor can take it and schedule a meeting with the student. It's kind of like Uber, except for tutors. "
+22,"The project is different activities inside a mobile application that tests common characteristics of a person who is in a intoxicated state. To make sure that the tests are consistent, each player basically has to sit down and hold the phone upright. If the score is below the certain threshold, the application will flag you, and the app will send a text message to your friends and family, share your location  and immediately call a ride back home."
+27,This software would match up your shirt with an outfit based on what similar shirts have been worn with online. 
+28,Bus Tracking App. A mobile app that displays active MTD bus routes and the GPS location of those buses on a map if we can access the GPS location (using Google Maps as a base)
+58,"A fitness and diet tracker that allows the user to input their meals, tracking the number of calories and quantities of macro- and micronutrients, and also to input their exercises, tracking areas of the body targeted, calories burned, etc. Possibly, this tracker could also make recommendations (do this exercise because of the trends of what you've done this week, meet this caloric goal if you want to gain or lose weight, etc.) "
+84,"I'm interested in making a mobile game, probably a 2D dungeon crawler genre type game. It would probably be coded in Kotlin and be an android game. I'm not sure how to implement anything right now since I don't have experience, but I hope I can also make graphics for the game since I have some experience with art and digital art. "
+91,Music Recommendation Algorithm
+116,WebScraping Sentiment Analyser
+119,"Gardening website, where users can input information like soil type (clay vs loam vs sand), location, what they want from the plant (aesthetics, food, ground cover), harvest time, and get a recommendation of what to plant.
+"
+135,"An app which creates a network for teens who are looking for small temporary jobs. It should be targeted to teens starting to enter the workforce by being able to do simple labor tasks for people who need it. Whether it be simple garden work for any elderly people, or others who need labor workers for simple temporary jobs. There should also be some type of interview process for being able to accept jobs from people and to posy requests for them. Which would allow a more secure and safe approach to asking people for help. The app itself should be very simple to navigate but with the vital resources needed for such an app. "
+142,"""T E T R I S ' D""
+
+(Game Development)
+
+(Java)
+
+Originally a web animation, the idea is that a stickman finds himself in the middle of a giant game of Tetris and tries to avoid being crushed by the falling blocks."
+143,Create a website which gives the expected value of a football or basketball player pick parlay based on data scared from statistics sites and odds from a selected platform (prizepicks/fanduel/draftkings)
+145,"App that includes all apartments that are available for rent to students, with info about features and more. Filters out possible apartments based on location relative to classes based on your major, prices you are willing to pay, and other features. Could also respond to user input or be linked to reviews about the apartment. "
+154,An app that shows allergy-friendly restaurants in the area
+157,"A program you can use to ""search yourself up"" and it will tell you what information about you is out on the internet and if someone is using/selling your information. "
+169,A project that would help promote healthy lifestyle in terms of mental and physical health. This would be a calendar app that would help you find out times in your day where you can incorporate adding physical activity. It would also give suggestions on what activities that a user can do such as exercise suggestions or de-stressors.
+182,"Iris Pointer, a python program that enables computer users to control the position of the cursor by turning their eyes around. It utilizes computer vision for face tracking and iris tracking."
+187,"app focused on helping students at UIUC find study groups. use an interface similar to tinder to help find peers in same classes, or share the same interests, etc. helps build connections and community. "
+193,"Program that compiles a list of data and provides a number of visualization tools tools such as facts, graphs, etc."
+203,"A video game about building your own realm and world that's similar to Minecraft. It would be focused on having a character, taking building blocks and navigating the world you're placed into."
+204,something to do with ai
+205,An app to make pdfs more accessible
+212,"A website that can tell the user, based on their input, if they are at risk of having heart failure. "
+217,"An ecommerce platform that serves as an intermediary between consumers and food producers. As the intermediary, we create a community where potential customers can directly contact various food producers without us needing to hold any of the stock. As a result, this will allow lower to middle income users to purchase food at a lower price and create a community to focus on minimizing waste."
+226,A health tracker application that is coordinated with the dining hall menu (so meant specifically for freshman) where students can track their meals and workouts.
+233,"I would create a point-and-click puzzle murder mystery game, where the player has to navigate through an atmospheric little town to solve the cryptic and unsettling deaths of several inhabitants. It would involve deciphering riddles, solving puzzles to unlock secret mechanisms, and piecing together the clues on an interactive evidence board. "
+234,Roommate finding application
+238,"I have recently trying to get into shape but am completely lost on what I have to do in the gym to achieve my fitness goals, so having an app that helps guide people in their lifting routine, cardio routine, and eating habits in order to help optimize their time while keeping them would be very helpful, especially for busy college students."
+245,A data visualization or machine learning project about bioinformatics and/or computational biology 1) Human Disease Genetic Basis Identification (could be an app!) or 2) Cancer tumor identification and classification from medical images
+253,"Music recommendation tool that recommends music to listeners not only on the time period that they were released or would play on the radio together, but based on the sounds of the music, content of the lyrics, etc."
+256,An app that gives me recommendations on movies/shows/books/songs based on the previous entries that I have given the application. 
+264,Using ML algorithms and a modern framework like Pytorch or Tenserflow for classification of Twitter posts or getting sentiment from a forum posts on company website. This would 
+265,"VARGuard
+
+This project aims to implement a risk management system, specifically focusing on calculating and analyzing Value at Risk (VaR) for a portfolio of assets. It involves mathematical modeling and optimization to estimate the potential loss in value of a portfolio over a specific time horizon at a given confidence level."
+286,Signature verifier
+288,Trading App
+292,"""Daily Task"" app that helps organize to-dos in a list. 
+Can list what I have to do on a certain day (can also include alarm-like reminders app in IOS) 
+When one thing is not finished, it moves to the day after 
+Can check off work done can see from day —> week —> month to see all the tasks done before
+IOS app that is compatible with phones, iPads, Macs."
+296,VR Maze Simulation where AI can add challenges and and things towards your way to make it harder to complete the course. The course can also randomly change paths in front of you to make it hard to complete.
+304,Weather notifier app that gives a notification of local weather data
+307,"I would want to create a website that serves as an online journal. Everyday at a certain time, it will send a notification to the college student user and ask about their stress level and ask the user to journal. Depending on the consistency of the stress level, the website will analyze the cause of the stress (through the journal) and send the user a few recommendations to reduce it. For example if the stress is because of an overload of homework, the journal may suggest yoga or meditation. If the stress is because of lack of human interaction, the journal may suggest a few clubs depending on the person's interests. "
+312,"Fitness tracking mobile app
+When users type in what they need, it will suggest videos
+Users can type in their goal, the app will help analyzing it
+Users can input their daily fitness and their food, and the app helps analyzing if that works or what should they do"
+315,A health tracking APP
+316,An artificial intelligence that can detect the emotional tone of speech. 
+318,Mood Tracking App - An app for users to check on and track their mood. They will be able to record their feelings and take notes on how they felt during the day to track their mood over time. The app can notify the user at a specific time at the end of each day to input their data for the day. 
+321,"Sign Language Translator for Speech- Impaired. Using a camera, we could make signs in ASL, which would then be translated into text to speech. "
+322,app to guide people to take better pictures using ML to analyze popular pictures on social media
+325,"This project is to design a ML application that, given national environmental survey data, would calculate the popularity of / probability of passing a certain climate policy, e.g., a national carbon tax."
+331,"The app will focus on helping people create and maintain a garden. They will get tips and reminders for how to promote well-being for their plants. Users will also be able to upload the progress of their plants, so that they can get more specific and relevant feedback tips. "
+334,"Card game- Make a card game somewhat like Hearthstone or Magic (but much simpler, obviously). I'm not sure if it would be feasible as a new CS student and it would have to be pretty basic, but I like the idea."
+352,An app where people can rank the best items on the menu at a restaurant and post it for others who want to visit that restaurant to see. 
+355,"AI driven Mental health chat bot/generated ai thing like gideon in flash to mimick a human
+
+Mental health is an extremely important aspect of all people. Many individuals struggle with mental health issues and may not have easy access to professional help. An AI-driven mental health chatbot can be a valuable project that combines computer science and healthcare to address this issue."
+356,A web service that allows you to keep track of your classes and means of transportation between them.
+364,"An app that would help with budgeting by analyzing weekly spending patterns. The user would have to input their weekly spending and earnings and then the app would track ""non essentials"" and suggest ways to save"
+373,"Life of a college student
+Simualtion of a college student in a recreation of the UIUC campus. A cozy 2D open world game (stardew valley vibe?)"
+377,An lightweight productivity&planning app which can pull assignment deadlines from various platforms.
+382,"music recommendation system across campus. using machine learning and also user recommendations, helps recommend users music they may enjoy, as well as maybe local concert/ music events to attend. also helps connect them with other who may enjoy similar music tastes, to help build connection and community and help people meet new people with similar interests."
+384, Flashcard Software
+387,An app that runs similarly to Twitter but the goal is to build community so you can only access people within a certain small mileage from you. 
+388,"Counts calories, fat, sugar, etc in foods input by the user"
+390,Create a program that predicts how an NFL team will preform during the season 

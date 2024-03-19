@@ -1,0 +1,65 @@
+User,Project Description,BERTopic,LDATopic
+5,program detect mental health illnesses,-1,0.0
+81,solver Poker gives pre-flop playing suggestions,-1,0.0
+278,easy-play game player control character chase NPC labyrinth. NPC prevent player.,-1,0.0
+386,"Weightlifting/Calisthenics Skill Tree app. Would transform one's fitness journey feel like game. Similar gain experience (XP) games level certain stats character, app would utilize progressive overload level stats push/pull/legs (or maybe even specific muscle groups).",-1,0.0
+51,"project idea based project worked team high school competition. demo made competition made public, project could become web application publicly accessible larger impact. project would data visualization dashboard shows disparities voter turnout. visualization would consist map US, split states. default, states would shaded according overall voter registration (with darker shading indicating higher registration percentage). Users could also look voter turnout ease-of-voting instead registration. Toggles would included users fine-tune population looking race, gender, age. example, user choose look state’s Latinx African American populations look state’s female population. toggles, users look demographics great precision. example, user could look something specific ease-of-voting female African American population 18-24 years old.",-1,1.0
+229,3D Hack Slash game similar Devil May Cry allows careless approach methodical approach.,-1,1.0
+236,"thinking making UIUC Community Resources Directory. user could input need help with, whether mental health, physical health, tuition, career help, tutoring, etc. website could return names centers, professors, staff could help, complete phone numbers synopsis resource is/provides.",-1,1.0
+36,"project would use machine learning user's phone usage data order help optimize study sleep times, well show focus changes throughout day.",-1,2.0
+279,"skincare website analyzes ingredients skincare products help find routine products already have, tells ingredients products incompatible react badly.",-1,2.0
+303,Scholarship Matching Website,-1,2.0
+306,Train machine learning algorithm detect handballs professional soccer matches.,-1,2.0
+337,"""Shelf Seeker"" (Java) program allows user select list themes literature returns array different books themes present (based data grabbed web sources) user chose. Example: (Input) Selected themes: Ambition, Morality, Corruption, Hubris, Self-Destruction, Manipulation (Output) Books: Macbeth, Great Gatsby, Red Black",-1,2.0
+372,"website serves online platform mental health. includes mental resource section, potentially art section users essentially practice limited form art therapy, audio files meditation links, etc.",-1,2.0
+139,"interactive visualization energy resources, including data good multiple different categories.",-1,3.0
+261,machine learning algorithm translate texts book,-1,3.0
+363,"Hairstyle recommender Recommends hairstyles based facial features user preferences. create profile includes information like hair type, hair color, preferred hair length, style preferences. Additionally, virtually try-on recommended hairstyle image overlay technology.",-1,3.0
+376,Self-Service Registration schedule generator tool picking classes based wide list user preferences.,-1,3.0
+389,quote finder,-1,3.0
+112,would like create program input picture symptoms given program identify skin disease/allergy occurred.,-1,4.0
+258,way connect long-distance friends sending cute drawings everyday.,-1,4.0
+260,App local artists use sell work,-1,4.0
+25,Android development -- kotlin/java program mobile devices UIUC Food Leaderboard,0,
+47,"project would gather data Yahoo Finance MSN Money, find important numbers chosen company's financial statements, plug spreadsheet. spreadsheet would organize numbers category year make green red, based numbers meet/exceed Warren Buffett's standards numbers",0,
+48,App takes user input order recommend local restaurants dishes based preferences,0,
+57,Finance Tracker. app allow users input transactions make budget stick to. categorize expenditures allow users see spending money possibly make suggestions areas could cut back save money.,0,
+78,"integrative uiuc app allows meet freshman students studying campus, view major, dorming intrests are. Additionally, app constntly promote events oppurtunities (such soccer match, subway dinner) meet chat fellow peers",0,
+95,"""UIUC Food"" mobile application (based Python backend), linked various restaurants Champaign-Urbana area, would use ML specifically recommend restaurants based one's particular eating tastes (i.e. restaurant reviews left app, views similar reviewers related restaurants).",0,
+103,"first project idea app website students upload real-time photos reviews dining hall food restaurant within dining hall. Illinois App features menus dining hall, instances app incorrect food advertised.",0,
+131,financial tracker: program lets user easily track expenses,0,
+138,"productivity website keeps track goals habits, holding accountable actions.",0,
+147,One idea create chatbots people engage AI bots make conversation. involves asking questions get information taking everyday things.,0,
+148,Personal Secretary,0,
+152,"want create AI chatbot teaches people handle personal finances income wisely future prosperity. chatbot seeks provide personalized interactive learning experience making complex financial ideas understandable wider audience currently available, along making common books literature accessible users. Users explore various financial topics budgeting, saving, investing, debt management, retirement planning along conversations, asking questions, seeking advice platform. Ideally, chatbot could use user-provided data offer individualized recommendations advice based user's particular financial status future plans. Furthermore, includes interactive financial simulations allow users test specific financial scenarios get immediate feedback decisions.",0,
+164,"Stock Market Analysis / Predictor: app able analyze stock values companies past predict price future; user select company interested investing into, app predict future trends company's stock.",0,
+175,Using AI optimise traffic flow cities,0,
+176,application suggests adding events calendar reminder list based information email inbox subscribed/selected groups user receives,0,
+189,Campus Restaurant Generator,0,
+214,Internet Wishlist,0,
+219,"Artificial Intelligence (in general). something want learn code, know works. would like project deals AI, make AI engine essentially detect mental health give feedback improve help make decisions, etc.",0,
+232,"""AI-Generated Art Detector"" Detects art piece created AI humans",0,
+262,"AI Personal Finance Manager App - project, would build personal finance app uses AI expense categorization, predictive financial insights, investment recommendations, payment reminders. would empower people developing/underdeveloped countries manage finances efficiently make informed financial decisions.",0,
+275,Automatic Cycling Tracker app automatically detects users start/stop bike rides logs rides.,0,
+280,web app integrates machine learning make nutritional plans users.,0,
+311,Hooked: app stay hooked favourite songs,0,
+324,"mobile app helps people decide go eat. either random generator restaurants user puts in, app takes location far willing travel randomly picks restaurant given preferences.",0,
+336,"map app crowdsources locates essential public services trash cans, bathrooms, mailboxes, etc. prioritizing accessibility needs preferences whether they're wheelchair-accessible.",0,
+338,Food Rating website authentication users,0,
+347,Stock market analysts even people enjoy trading side hobby could use tool goes popular relevant news websites gather information stocks user owns watchlist help users make informed decisions trade stock market. project web scraper compiles sorts information internet find unbiased accurate data users learn without read large amounts literature.,0,
+349,app helps people fill FASFA.,0,
+354,Fake news detector. Python program helps online news readers find sources credible fake.,0,
+357,calendar people write do. app give reminders people forget/procrastinate.,0,
+361,Using AI/ML create algorithms help people boost platforms different social media.,0,
+383,"app calorie tracking anyone trying gain lose weight. app would essentially allow users reach fitness goals giving realistic plan build calorie goal based current health metrics, age, height, weight, more.",0,
+100,puzzle game requires using one stroke connect girds background.,1,
+114,"project recommend songs user's playlist based mood/emotion user types in. Whenever song added playlist, project sort various emotions analyzing lyrics, pitch, tempo, sound level.",1,
+126,Automatic YouTube Playlist Downloader. Could used students self learning YouTube videos. Downloading lectures creating playlists.,1,
+134,"Google Chrome extension/web app builds student learning community courses, students help course-specific questions.",1,
+184,"typing practice website foreign keyboard. keyboard layout want use isㄅㄆㄇㄈ (known Zhuyin), used Taiwan.",1,
+186,want design website gather resources quantum physics.,1,
+224,Machine Learning project creates schedule user's future semesters UIUC based imports classes required wish take.,1,
+254,use machine learning come combinations midfielders effective field.,1,
+259,companion piece software hex based TTRPG,1,
+289,Web/Mobile application help user individual soccer training library training drills videos machine learning algorithms suggest personalized training plans.,1,
+345,"project website recommend books help academic career based answers questions like major, topic interest, etc. recommendation generated using information found goodreads profiles (that dataset might publicly available many something else)",1,

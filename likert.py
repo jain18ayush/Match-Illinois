@@ -4,11 +4,9 @@ from sklearn.cluster import KMeans
 # Read the CSV file into a DataFrame
 df_real_data = pd.read_csv('/Users/nicolehu/Documents/GitHub/Match-Illinois/Main Likert and Project Description Data - Sheet1 (1).csv')
 
-# Drop the 'Project Description' column as it's not needed for K-Means clustering
-df_real_data_cluster = df_real_data.drop('Project Description', axis=1)
-
 # Apply K-Means clustering to group the people into 5 groups (one for each category)
 num_groups = 5
+df_real_data_cluster = df_real_data.drop(columns=['Project Description'], axis=1)
 
 # Apply K-means clustering
 kmeans_real = KMeans(n_clusters=num_groups, random_state=42)
@@ -20,16 +18,24 @@ cluster_labels_real = kmeans_real.labels_
 # Define category names
 category_names = ['Web Dev', 'ML', 'Mobile Dev', 'App Dev', 'Data Analytics']
 
-# Group individuals by their cluster labels (category)
-groups_real = {category_names[i]: [] for i in range(num_groups)}
-for i, label in enumerate(cluster_labels_real):
-    groups_real[category_names[label]].append(i + 1)  # Adding 1 to start indexing from 1
+# Initialize a dictionary to hold the data for each category
+category_data = {name: [] for name in category_names}
 
-# Create a CSV file for each category with the users listed
-for category, members in groups_real.items():
-    # Create a DataFrame for the current category with users
-    members_df = pd.DataFrame(members, columns=['User'])
+# Populate the dictionary with user IDs and project descriptions for each category based on cluster labels
+for i, label in enumerate(cluster_labels_real):
+    category = category_names[label]
+    user_id = df_real_data.loc[i, 'User']
+    project_description = df_real_data.loc[i, 'Project Description']
+    category_data[category].append({'User': user_id, 'Project Description': project_description})
+
+# Create a CSV file for each category with the users and their project descriptions
+for category, data in category_data.items():
+    # Create a DataFrame for the current category
+    category_df = pd.DataFrame(data)
     # Generate the CSV file name
     csv_filename = f"{category.replace('/', '_').replace(' ', '_')}_group.csv"
+    # Define the path to save the file (here it's specified as '/mnt/data/', which is the sandbox environment in this context)
+    output_path = f'/Users/nicolehu/Documents/GitHub/Match-Illinois/{csv_filename}'
     # Save the DataFrame to a CSV file
-    members_df.to_csv(f'/Users/nicolehu/Documents/GitHub/Match-Illinois/{csv_filename}', index=False)
+    category_df.to_csv(output_path, index=False)
+
