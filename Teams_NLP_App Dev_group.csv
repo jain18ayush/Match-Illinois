@@ -1,0 +1,76 @@
+Team,User,Project Description,LDATopic,BERTopic
+1,204,something ai,-1,-1
+1,293,Project Name: Secretary+ would natural language processing note taking app. main function taking human voice input producing concise notes based information.,-1,-1
+1,327,engine dynamically create character dialogue using AI,-1,-1
+1,351,app allows users rank dining hall food options uses ranking determine menus overall dining hall ranks certain days depending food offering.,-1,-1
+1,262,"AI Personal Finance Manager App - project, would build personal finance app uses AI expense categorization, predictive financial insights, investment recommendations, payment reminders. would empower people developing/underdeveloped countries manage finances efficiently make informed financial decisions.",-1,-1
+1,380,automatic music import algorithm,-1,-1
+2,381,Maybe application,-1,0
+2,191,"sort productivity application, potentially including features like todo list, access calendar accounts (g-calendar, apple calender) wrapped form farming simulator game (inspired stardew valley).",-1,0
+2,192,"want make something modify Spotify app adding lots features. example, able add folder covers. Creating automatic playlist recently added 50 songs recently played 50 songs. Color/background customization app. Lastly, custom tagging system playlists.",-1,0
+2,252,UIUC RSO app. app provide place RSOs upload information users discover RSOs outside quad day.,-1,0
+2,177,"app tracks user data analyzes determine journey sustainability. part app providing information sustainability - connecting current news topic, providing resource lists journals users track. journals another part users view results took reduce carbon footprint. use APIs provide map allows suers see recycle/other centers promote sustainability like thrift stores such.",-1,0
+2,176,application suggests adding events calendar reminder list based information email inbox subscribed/selected groups user receives,-1,0
+3,209,"mobile app that's kind like period tracker showers, add friends compete them. ""by engineers, engineers"" type deal yknow",-1,0
+3,218,"Green Route' - application helps users plan eco-friendly commutes analyzing transportation options (public transit, biking, carpooling) considering environmental impact.",-1,0
+3,222,app would sync reminders assignments one place.,-1,0
+3,251,chrome extension connects students question course another student taken course before/is confident material.,-1,0
+3,178,"Homework tracker program calendar sorts input homework program give custom announcements, organize work, give feedback effective time spent.",-1,0
+3,183,"project aims develop AI-powered travel recommendation system helps users discover unconventional less-known travel destinations, providing personalized travel itineraries tips.",-1,0
+4,291,"UIUC Lost n Found mobile application. Students faculty members upload lost objects found onto app, users view items uploaded check items belongs them. do, view uploader's contact information contact uploader. contact, object successfully returned, uploader manage uploaded items update status object ""Returned"".",-1,0
+4,173,"want create app provides support elderly emergency situations essentially try send help soon possible notifying someone app clicking button, somebody able come rescue them.",-1,0
+4,295,music recommendation project identify tone songs musics several categories users choose according current feeling music preference.,-1,0
+4,304,Weather notifier app gives notification local weather data,-1,0
+4,319,project application based fitness health. able find suitable workout routine users. Users able schedule plan diet based goals current status.,-1,0
+4,352,app people rank best items menu restaurant post others want visit restaurant see.,-1,0
+5,360,"""RideShare"" - program enables users connect people willing drive another individual long distances split gas money (one person posts trip car people may request rideshare save gas expenses, split costs)",-1,0
+5,366,program helps user pick plan life path.,-1,0
+5,367,Gift Recommender - application analyzes friends relatives social media accounts suggests specific products would like receive gifts.,-1,0
+5,371,online help website similar CS124's,-1,0
+5,376,Self-Service Registration schedule generator tool picking classes based wide list user preferences.,-1,0
+5,379,Alarm clock test formulas (for android? never used apple),-1,0
+6,272,Personal Finance Application UIUC students specifically.,-1,0
+6,172,CampusTutor - mobile app connects tutors students college campus.,-1,0
+6,385,"app put basic information helps come workout time help focus grow certain skills. example, would put current fitness experience, types workouts like, equipment restrictions, many times per week want workout, short term long term fitness goals would create workout circuit days help reach goals.",-1,0
+6,118,interview preparation website prompts user behavioral (and maybe even technical) questions. could potentially judge user's responses using AI. Responses could either spoken typed (spoken would definitely difficult).,-1,0
+6,87,"Program helps users keep tracks assignments due dates. allows enter time required assignment according schedule notifies time available deadline. tasks color coordinated based high, medium, low importance.",-1,0
+6,92,"1. Parent-Child Chores App app would two interfaces, one parent one child. parent interface would allow parents set chores deadlines incentives, including limited screen time, money, toys, etc. child would able verify completion tasks submitting image proof completed task, parent could approve completion release reward app.",-1,0
+7,99,"Study spot locater Either mobile app website searching study spaces. filter search hours open (current time), level noise, distance current location, group study solo study, study resources (tutoring), charging, food allowed, etc.",-1,0
+7,102,"Virtual Health Assistant Chatbot software-based project aimed improving healthcare accessibility providing personalized health information recommendations users. utilizes natural language processing (NLP) machine learning techniques interact users, answer health-related questions, offer advice various aspects healthcare wellness.",-1,0
+7,167,"assignment compiler given web address, login information would, class name would monitor class websites compile assignments, descriptions, due dates, (maybe) contents one location.",-1,0
+7,105,LUKS EFI filesystem driver,-1,0
+7,109,idea project suggest new music user based existing spotify history.,-1,0
+7,112,would like create program input picture symptoms given program identify skin disease/allergy occurred.,-1,0
+8,52,hope make app website monitors flow people equipment usage school gyms.,-1,0
+8,79,app would help students make friends travelling safe figuring campus.,-1,0
+8,119,"Gardening website, users input information like soil type (clay vs loam vs sand), location, want plant (aesthetics, food, ground cover), harvest time, get recommendation plant.",-1,0
+8,71,Music Tracker gives live updates upcoming albums news artists genres may given hints towards new projects,-1,0
+8,21,"""FasterHelp"" - web mobile application students need tutors search UIUC campus area students willing tutor, notifications pop up, students willing tutor take schedule meeting student. kind like Uber, except tutors.",-1,0
+8,121,want build app would allow people simulate simple circuits solve circuit problems,-1,0
+9,19,Dining Hall social media platform allows students share food experiences wait times dining halls.,-1,0
+9,122,Productivity Mode - mobile app reads screen time gives reminders based likely use phone. going option completely lock phone certain amount time summary screen time.,-1,0
+9,16,"Organizational Calendar/Checklist clean, modern user interface offers high customizability",-1,0
+9,12,"Creating iOS app (perhaps named ""Third Eye"") employs CoreML, CreateML, similar technologies develop train robust traffic sign detection model. app seamlessly integrates device's camera, enabling real-time traffic sign recognition. Users receive alerts speeding violations missing crucial traffic signs. app also leverages phone's accelerometer data monitor speed, comparing posted speed limits. Additionally, offers audio announcements important signs like STOP signs logs multiple traffic signs single route, updating speed limits change.",-1,0
+9,10,bike lending app,-1,0
+9,149,"Environmental Monitoring Dashboard: Software scrapes/access environmental data (air quality, weather, etc.) visualizes user. form website app.",-1,0
+10,375,Python program helps predict stock price trends certain degree machine learning.,-1,1
+10,359,"Headlines Trend lines: app able web-scrape article headlines various news sites help determine public opinion company, products, people. Based news, trend predicted company's stock price (positive negative).",-1,1
+10,69,"interesting project would something similar software product J.P. Morgan use trading desk. called Perspective seen here, open-sourced: https://perspective.finos.org/. Data visualization components gaining insight big data sources something versatile many cases, trading, spatial analysis, corporate consumer insight example. details specific use case determent later group. However, believe project would good simulation modern real-world project would entrain, complex front-end many customization, back-end high throughput high-frequency, potential cloud distributed implementation serviceability maintainability.",-1,1
+10,70,TweetStreet project aims analyze Twitter data assess market sentiment potential impact stock prices. involves collecting analyzing tweets related financial markets provide insights sentiment trends correlation stock price movements.,-1,1
+10,35,"thinking data processing prediction via machine learning Python primary language, kind similar Kaggle. I'm considering something related biology finance. Maybe use python (numpy, pandas) gather data, process data utilize pytorch build deep learning model solving issues.",-1,1
+10,156,website analyzes stock/market data make predictions future outcomes determines whether buy/sell stock.,-1,1
+11,290,"""PricePredict"" Python program which, given numerous economic/supply statistics (i.e. Consumer Price Index, Agricultural Output, Labor, etc.) specifically predict average price various consumer goods, i.e. food (specific fruits/vegetables), gasoline, electricity, etc., given short-run time period (1 month) and, less precision, longer time periods (up year).",-1,1
+11,108,Predicting trends product consumption using ML basis social media trends previous consumption records,-1,1
+11,210,Create fake news detection system. able look news article see credible source not.,-1,1
+11,195,Create program allows user input stock predict price stock increment time.,-1,1
+11,337,"""Shelf Seeker"" (Java) program allows user select list themes literature returns array different books themes present (based data grabbed web sources) user chose.mnExample:(Input) Selected themes: Ambition, Morality, Corruption, Hubris, Self-Destruction, Manipulation (Output) Books: Macbeth, Great Gatsby, Red Black",-1,1
+11,150,"application app website connect another student UIUC based similar interests (could classes taken/being taken, music taste, major, etc.). designed help freshman people grades make friends.",-1,0
+12,299,1v1 online card-based game fantasy setting unique gimmicks,-1,2
+12,269,Competitive line-graphing game,-1,2
+12,237,"game puts ""player"" series scenarios similar ""prisoner's dilemma."" scenario player ""partnered"" program randomly decides whether act self interest interest ""group"". there, program record whether player acted self depending scenario.",-1,2
+12,120,breakout 2D game,-1,2
+12,194,Creating game,-1,2
+12,133,platforming game 4 players try grab coins certain level.,-1,2
+13,140,"creating isometric puzzle game slight story element. hope create game focuses perspective character (currently undecided) Shakespeare play, puzzles reflect journey throughout story. final project would resemble cheap movie-to-game ports handheld consoles.",-1,2
+13,144,program analyzes data sports players different sports compares determine sports bets profitable not.,-1,2
+13,9,something neural networks possibly game dev.,-1,2

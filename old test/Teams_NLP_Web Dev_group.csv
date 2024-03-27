@@ -1,0 +1,73 @@
+Team,User,Project Description,LDATopic,BERTopic
+1,257,education game children based Google's Quick Draw dataset; draw pictures output word drawing represents,-1,-1
+1,64,Personal Radio (Website/App),-1,-1
+1,260,App local artists use sell work,-1,-1
+1,258,way connect long-distance friends sending cute drawings everyday.,-1,-1
+1,55,"Create program screens companies trading global stock exchanges, chooses good investment candidates based user-controlled input criteria, displays user-friendly manner user look company wish.",-1,-1
+1,279,"skincare website analyzes ingredients skincare products help find routine products already have, tells ingredients products incompatible react badly.",-1,-1
+2,51,"project idea based project worked team high school competition. demo made competition made public, project could become web application publicly accessible larger impact. project would data visualization dashboard shows disparities voter turnout. visualization would consist map US, split states. default, states would shaded according overall voter registration (with darker shading indicating higher registration percentage). Users could also look voter turnout ease-of-voting instead registration. Toggles would included users fine-tune population looking race, gender, age. example, user choose look state’s Latinx African American populations look state’s female population. toggles, users look demographics great precision. example, user could look something specific ease-of-voting female African American population 18-24 years old.",-1,-1
+2,139,"interactive visualization energy resources, including data good multiple different categories.",-1,-1
+2,354,Fake news detector. Python program helps online news readers find sources credible fake.,-1,-1
+2,184,"typing practice website foreign keyboard. keyboard layout want use isㄅㄆㄇㄈ (known Zhuyin), used Taiwan.",-1,-1
+2,33,Paper Trading Web App: platform functionality real investing website uses fake money. app would allow user actively manage portfolio execute trades real-time simulated environment.,-1,-1
+2,208,application allows physically impaired users type operate computer using facial movements.,-1,-1
+3,10,bike lending app,-1,-1
+3,8,Skin Cancer Detection Program,-1,-1
+3,209,"mobile app that's kind like period tracker showers, add friends compete them. ""by engineers, engineers"" type deal yknow",-1,-1
+3,68,"Interview practice, app helps users prepare interviews giving practice questions formats come answer",-1,-1
+3,268,Pomodorro timer users use pomodoro technique productive.,-1,-1
+3,99,"Study spot locater Either mobile app website searching study spaces. filter search hours open (current time), level noise, distance current location, group study solo study, study resources (tutoring), charging, food allowed, etc.",-1,0
+4,287,"2. Biometric mood recognition Use biometric markers available apple watch, fitness trackers, heart rate trackers gauge users' moods mental health. model ideally trained readily available biometric data heart rate, blood pressure, breathing, useable apple watches fitness trackers gather biometric data.",-1,0
+4,103,"first project idea app website students upload real-time photos reviews dining hall food restaurant within dining hall. Illinois App features menus dining hall, instances app incorrect food advertised.",-1,0
+4,376,Self-Service Registration schedule generator tool picking classes based wide list user preferences.,-1,0
+4,255,detailed timetable list. include timetable classes appointments. also include tomato clock record time usage.,-1,0
+4,131,financial tracker: program lets user easily track expenses,-1,0
+4,128,app tracks workouts gives reminders,-1,0
+5,216,"""Workout Buddy"" - program takes pictures muscles body (such abs, biceps) develops custom workout plan user's fitness goals manually input. User keep track goals auto-generated calendar meet goals lays you, generates motivational message. time allows would add feature app analyzes exercise provides feedback (to fix form, posture, etc.)",-1,0
+5,336,"map app crowdsources locates essential public services trash cans, bathrooms, mailboxes, etc. prioritizing accessibility needs preferences whether they're wheelchair-accessible.",-1,0
+5,13,application used identify different flora hazard levels camera.,-1,0
+5,15,"first project idea UIUC event locator. would basically able go list events held day (RSOs, Office hours, Info Meetings, etc). find event details (time, location, bus) one place.",-1,0
+5,41,"project idea Recipe Finder. idea people, particularly students, could input ingredients homes refrigerators, possibly appliances disposal, based data various online resources cookbooks, website could return recipe fits ingredients appliances person inputted. could also return similarity score (eg: recipe 80% match ingredients). potentially thinking adding nutrition facts well, recipes returned could address daily nutritional needs.",-1,0
+5,48,App takes user input order recommend local restaurants dishes based preferences,-1,0
+6,53,Qvision - App displays number people standing line dining hall campus. data provided cameras using Computer Vision.,-1,0
+6,320,project helps user develop recipe food want fit taste.,-1,0
+6,62,Mapping restaurant day-to-day excess food they're required throw homeless shelters/etc,-1,0
+6,57,Finance Tracker. app allow users input transactions make budget stick to. categorize expenditures allow users see spending money possibly make suggestions areas could cut back save money.,-1,0
+6,352,app people rank best items menu restaurant post others want visit restaurant see.,-1,0
+6,90,Location Based Reminders App,-1,0
+7,350,"Stock Price Prediction Mobile App: ""Stock Price Prediction Mobile App"" project aims develop mobile application (available iOS Android) assists users predicting future stock prices given company stock symbol. app collects historical stock price data, pre processes analyzes using machine learning techniques, provides users predictions visualizations. Key features include real-time data fetching, data preprocessing, machine learning model integration, user-friendly interface, performance evaluation. project empowers users make informed investment decisions offering accessible stock price predictions, making valuable tool novice investors looking enhance stock market knowledge.",-1,1
+7,283,"program focuses helping teachers manage classroom quiet time. consist kind natural landscape, small animals appearing quiet time continues. Loud noises ""scare"" animals away.",-1,1
+7,254,use machine learning come combinations midfielders effective field.,-1,1
+7,361,Using AI/ML create algorithms help people boost platforms different social media.,-1,1
+7,261,machine learning algorithm translate texts book,-1,1
+7,3,"want build algorithm pairs individuals based compatibility terms personality political views well would get along. work partnering, school partnering, dating apps, etc.",-1,1
+8,175,Using AI optimise traffic flow cities,-1,1
+8,390,Create program predicts NFL team preform season,-1,1
+8,196,create neural network.,-1,1
+8,174,"aim first idea develop enhanced version commonly used iClicker, device checking attendance conducting quizzes multiple-choice questions. enhanced iClicker attempt use simpler programming provide seamless efficient experience students instructors.",-1,1
+8,166,using data AI give solutions business owners problems,-1,1
+8,147,One idea create chatbots people engage AI bots make conversation. involves asking questions get information taking everyday things.,-1,1
+9,43,would data science project people enjoyed certain courses and/or professors UIUC would recommended courses/ professors match interest future academic goals.,-1,2
+9,80,Classical Music Recommender app recommends classical music pieces users based pieces liked past.,-1,2
+9,332,app could bridge gap volunteers nonprofit organizations need support.,-1,2
+9,303,Scholarship Matching Website,-1,2
+9,134,"Google Chrome extension/web app builds student learning community courses, students help course-specific questions.",-1,2
+9,137,"mobile app help college students manage health well-being. would combine step tracking, nutritional guidance, personalized health insights one convenient platform.",-1,2
+10,236,"thinking making UIUC Community Resources Directory. user could input need help with, whether mental health, physical health, tuition, career help, tutoring, etc. website could return names centers, professors, staff could help, complete phone numbers synopsis resource is/provides.",-1,2
+10,272,Personal Finance Application UIUC students specifically.,-1,2
+10,266,chrome extension links moodle canvas help university students connect people based niche problems may have.,-1,2
+10,148,Personal Secretary,-1,2
+10,150,"application app website connect another student UIUC based similar interests (could classes taken/being taken, music taste, major, etc.). designed help freshman people grades make friends.",-1,2
+10,212,"website tell user, based input, risk heart failure.",-1,2
+11,269,Competitive line-graphing game,-1,3
+11,121,want build app would allow people simulate simple circuits solve circuit problems,-1,3
+11,335,"mobile flashcard app meant make experience studying fun using similar function game ""Heads Up"".",-1,3
+11,120,breakout 2D game,-1,3
+11,81,solver Poker gives pre-flop playing suggestions,-1,3
+11,201,level-based puzzle game switch top-down side-scrolling sections complete spatial puzzles.,-1,3
+12,4,simple game.,-1,3
+12,362,mapping 'game',-1,3
+12,142,"""T E R ' D"" (Game Development) (Java) Originally web animation, idea stickman finds middle giant game Tetris tries avoid crushed falling blocks.",-1,3
+12,244,app website measure wait time restaurant dining hall UIUC. opportunity make larger scale apply different universities.,-1,0
+12,232,"""AI-Generated Art Detector"" Detects art piece created AI humans",-1,1
+12,273,app allows students meet seniors/ people passed college see doing. get know major club's took college years additionally gain information fare well college,-1,2

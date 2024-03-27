@@ -1,0 +1,82 @@
+Team,User,Project Description,LDATopic,BERTopic
+1,8,Skin Cancer Detection Program,-1,0
+1,286,Signature verifier,-1,0
+1,274,Gamification life,-1,0
+1,271,Fruit sightings - shows students find fresh produce campus.,-1,0
+1,270,"Self-flying Plane Simulation user choose starting point ending point map, given coordinates, trained neural network fly 3d space coordinates. project require neural networks genetic algorithms.",-1,0
+1,253,"Music recommendation tool recommends music listeners time period released would play radio together, based sounds music, content lyrics, etc.",-1,0
+2,245,data visualization machine learning project bioinformatics and/or computational biology 1) Human Disease Genetic Basis Identification (could app!) 2) Cancer tumor identification classification medical images,-1,0
+2,243,app scans users clothes creates outfits based clothes scanned,-1,0
+2,242,"project would scheduling app high school. Right now, high school uses app called Saturn, recently Saturn raised privacy bullying concerns. make app specifically school(with mascot school pride slogans, similar Illinois App), maybe principal would consider it. not, could simply remove high school aspect make scheduling app anything. Although many scheduling apps there, would get good practice could also add features would otherwise pay want one app store.",-1,0
+2,236,"thinking making UIUC Community Resources Directory. user could input need help with, whether mental health, physical health, tuition, career help, tutoring, etc. website could return names centers, professors, staff could help, complete phone numbers synopsis resource is/provides.",-1,0
+2,234,Roommate finding application,-1,0
+2,230,"plagerization checker, utilize powerful ability python acquire informations internet check students plagerized other's work internet.",-1,0
+3,226,health tracker application coordinated dining hall menu (so meant specifically freshman) students track meals workouts.,-1,0
+3,225,"BetterSchedule App website allows students input classes, need get done terms school outside school, time constraints, app creates schedule based priority events (that user decides)",-1,0
+3,217,"ecommerce platform serves intermediary consumers food producers. intermediary, create community potential customers directly contact various food producers without us needing hold stock. result, allow lower middle income users purchase food lower price create community focus minimizing waste.",-1,0
+3,387,app runs similarly Twitter goal build community access people within certain small mileage you.,-1,0
+3,292,"""Daily Task"" app helps organize to-dos list. list certain day (can also include alarm-like reminders app IOS) one thing finished, moves day check work done see day —> week —> month see tasks done IOS app compatible phones, iPads, Macs.",-1,0
+3,302,"app marks locations various restrooms world map. People use locate get directions nearest restroom matter are. also check quality restroom, case feel discomfort certain conditions smells.",-1,0
+4,307,"would want create website serves online journal. Everyday certain time, send notification college student user ask stress level ask user journal. Depending consistency stress level, website analyze cause stress (through journal) send user recommendations reduce it. example stress overload homework, journal may suggest yoga meditation. stress lack human interaction, journal may suggest clubs depending person's interests.",-1,0
+4,310,"application matches different students campus based study habits, courses, majors help find study partner even study group.",-1,0
+4,378,project idea develop website app analyzes user's YouTube search history identify interests connects others share similar interests. platform aims provide users easy fun way meet people common interests based YouTube usage patterns.,-1,0
+4,377,lightweight productivity&planning app pull assignment deadlines various platforms.,-1,0
+4,373,Life college student Simualtion college student recreation UIUC campus. cozy 2D open world game (stardew valley vibe?),-1,0
+4,356,web service allows keep track classes means transportation them.,-1,0
+5,355,AI driven Mental health chat bot/generated ai thing like gideon flash mimick human Mental health extremely important aspect people. Many individuals struggle mental health issues may easy access professional help. AI-driven mental health chatbot valuable project combines computer science healthcare address issue.,-1,0
+5,348,"app take around wherever go, reach building monument curious historical significance historical event taken place tell you.",-1,0
+5,342,second idea creating music recommender systems. involves detecting kind music user likes developing recommendations playlists person listen based like.,-1,0
+5,212,"website tell user, based input, risk heart failure.",-1,0
+5,341,"project aim creating mobile app looking fashion recommendations, inspirations, shopping options based taste preferences. app takes inspiration BeReal allowing users upload outfits without specific time. app make shopping catalog user, catalog used help give clothing recommendations, avoid duplicate purchases build outfit user.",-1,0
+5,339,"program predict crime rates specific area. take things income, unemployment, population, return safe place crime rate.",-1,0
+6,329,Analyzing effect misinformation campaigns adversaries nation states tweets subsequent reaction citizens.,-1,0
+6,325,"project design ML application that, given national environmental survey data, would calculate popularity / probability passing certain climate policy, e.g., national carbon tax.",-1,0
+6,323,Get list recipes display UI,-1,0
+6,321,"Sign Language Translator Speech- Impaired. Using camera, could make signs ASL, would translated text speech.",-1,0
+6,320,project helps user develop recipe food want fit taste.,-1,0
+6,316,artificial intelligence detect emotional tone speech.,-1,0
+7,340,"Mobile app allows students pick dining hall specific food ate every meal give rating, based that, suggest what/where eat given day using menu every dining hall using previous ratings make decision.",-1,0
+7,205,app make pdfs accessible,-1,0
+7,213,Daily Wear web app helps user decide wear day recording clothes arranging combinations certain basic fashion rules mind. (E.g. make whole combination color there's obvious change texture pattern clothes),-1,0
+7,188,"app uses data science optimize sleep. Users would able enter details like age, weight, height, sleeping patterns day. app use users' past sleeping patterns calculate user's sleep debt determine right time user sleep.",-1,0
+7,97,"Bus Alarm ever disembarked wrong station overslept bus? ""Bus Alarm"" app solve problems! ""Bus Alarm"" app connected metro system wakes arriving destination.",-1,0
+7,95,"""UIUC Food"" mobile application (based Python backend), linked various restaurants Champaign-Urbana area, would use ML specifically recommend restaurants based one's particular eating tastes (i.e. restaurant reviews left app, views similar reviewers related restaurants).",-1,0
+8,85,social media people like listen music.,-1,0
+8,76,ARC/CRCE Crowd Tracker,-1,0
+8,65,"program somebody calls user user pick up, program check microsoft / google calendrer user middle event meeting , automatic notification sent telling person originally called user likely available",-1,0
+8,60,outfit suggestion system. project provide suggestion clothing based temperature events day.,-1,0
+8,113,"All-Included Education Website free education website made community community. Ideally, cover fields learning possible, CS music history quantum physics. community contribute making account, verify verified person field, make learning blogs videos website!",-1,0
+8,53,Qvision - App displays number people standing line dining hall campus. data provided cameras using Computer Vision.,-1,0
+9,46,"NutriChef: Create recipe recommendation system suggests dishes based users' dietary preferences nutritional constraints. Users input dietary restrictions (e.g., vegetarian, gluten-free) nutritional goals (e.g., low-carb, high-protein). system recommend recipes align constraints ensuring balanced nutritious diet.",-1,0
+9,30,- CollegeConnect - App pairs high school students college students via messaging ask questions might,-1,0
+9,28,Bus Tracking App. mobile app displays active MTD bus routes GPS location buses map access GPS location (using Google Maps base),-1,0
+9,27,software would match shirt outfit based similar shirts worn online.,-1,0
+9,22,"project different activities inside mobile application tests common characteristics person intoxicated state. make sure tests consistent, player basically sit hold phone upright. score certain threshold, application flag you, app send text message friends family, share location immediately call ride back home.",-1,0
+9,20,"""Singronized""This Mobile Application compares singing (key, lyrics) actual songs, give indicators based voice detection improve accuracy user's singing.",-1,0
+10,49,project would website visualization Illini-Alert.,-1,0
+10,193,"Program compiles list data provides number visualization tools tools facts, graphs, etc.",-1,0
+10,115,"Create application act centralized hub events UIUC campus. Students faculty use app post raise awareness certain events held campus, well communicate event coordinators ask and/or answer questions events.",-1,0
+10,141,"COVID-19 heat map based different demographics Though COVID-19 heat maps become redder based many total cases area, one I'm thinking filters depending demographics want see (such race, gender, socioeconomic class, religion, etc.)",-1,0
+10,187,"app focused helping students UIUC find study groups. use interface similar tinder help find peers classes, share interests, etc. helps build connections community.",-1,0
+10,180,Python program helps predict stock price trends certain degree machine learning.,-1,0
+11,169,project would help promote healthy lifestyle terms mental physical health. would calendar app would help find times day incorporate adding physical activity. would also give suggestions activities user exercise suggestions de-stressors.,-1,0
+11,159,"""Hydration Station"", Java mobile program gives user notifications much drink water. Based inputted data like height, weight, activity, etc.",-1,0
+11,158,list,-1,0
+11,154,app shows allergy-friendly restaurants area,-1,0
+11,153,"app monitors much pollution emit, help people reduce carbon footprint. would help users make eco-friendly decisions giving small tips based behavior patterns.",-1,0
+11,145,"App includes apartments available rent students, info features more. Filters possible apartments based location relative classes based major, prices willing pay, features. Could also respond user input linked reviews apartment.",-1,0
+12,116,WebScraping Sentiment Analyser,-1,0
+12,388,"Counts calories, fat, sugar, etc foods input user",-1,0
+12,138,"productivity website keeps track goals habits, holding accountable actions.",-1,0
+12,136,"think would cool app makes playlist based workout person going. app would tailored workout's type, length, level difficulty. instance, light job would different list songs sprint. Also, person weights, could use playlist includes number songs number sets song switches every time person starts new set. could indicated app either voice detection, touch screen, press button, time.",-1,0
+12,130,"project would design interactive website Project4Less, food-recovery RSO aims reduce food waste campus addressing food insecurity Urbana-Champaign community.",-1,0
+12,128,app tracks workouts gives reminders,-1,0
+13,142,"""T E R ' D"" (Game Development) (Java) Originally web animation, idea stickman finds middle giant game Tetris tries avoid crushed falling blocks.",-1,1
+13,81,solver Poker gives pre-flop playing suggestions,-1,1
+13,84,"I'm interested making mobile game, probably 2D dungeon crawler genre type game. would probably coded Kotlin android game. I'm sure implement anything right since experience, hope also make graphics game since experience art digital art.",-1,1
+13,353,Dice game,-1,1
+13,276,solver Connect 4,-1,1
+13,300,2D Tile rouge-like game w/ space-station theme,-1,1
+14,123,"Trip Itinerary Website - website helps users plan trip based selected location, duration trip, number total guests. website give user activities popular attractions see rough estimates much cost per guest.",-1,0
+14,72,slg game like Civilization fantasy background,-1,1
+14,296,VR Maze Simulation AI add challenges things towards way make harder complete course. course also randomly change paths front make hard complete.,-1,1
