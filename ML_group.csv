@@ -1,92 +1,68 @@
 User,Project Description
 6,This project would be an application that uses transit information and your personal calendar to show a spatial representation of how you've planned your day and find the optimal travel times/methods to take to each event.
-15,"My first project idea is a UIUC event locator. You would basically be able to go through a list of all of the events being held that day (RSOs, Office hours, Info Meetings, etc). You'd find all of the event details (time, location, bus) in one place. "
-17,An application for students to find different study groups and their locations on a map. This could be helpful if students want to do work for a specific class together. 
+13,An application that is used to identify different flora and their hazard levels through a camera.
+14,"Rich, hot cousin of Notion and Google Calendar. aka Notion and GCal but better. way to track assignments/events/tasks and view them easily."
 22,"The project is different activities inside a mobile application that tests common characteristics of a person who is in a intoxicated state. To make sure that the tests are consistent, each player basically has to sit down and hold the phone upright. If the score is below the certain threshold, the application will flag you, and the app will send a text message to your friends and family, share your location  and immediately call a ride back home."
-23,"SignIFY' - Real-time Language Translation for Sign Language. I would like to create a system that can translate sign language gestures into spoken language in real time, making communication more accessible for the deaf and hard of hearing."
 26,"My first project idea is to create a game with two cats, each controlled by one player, where they both have a unique but opposite special ability, such as attract/pull magnets or being able to become bigger/smaller."
-28,Bus Tracking App. A mobile app that displays active MTD bus routes and the GPS location of those buses on a map if we can access the GPS location (using Google Maps as a base)
-29,"A music recommendation algorithm that can either take inputs of a user's favorite artists, songs, and genres or link up with a streaming service such as Spotify or Apple Music to recommend new songs. "
 44,"Free food calendar. Scrape discord servers and websites for various groups on campus to find where and when theres free food, anywhere on campus."
+46,"NutriChef: Create a recipe recommendation system that suggests dishes based on users' dietary preferences and nutritional constraints. Users can input dietary restrictions (e.g., vegetarian, gluten-free) and nutritional goals (e.g., low-carb, high-protein). The system should recommend recipes that align with these constraints while ensuring a balanced and nutritious diet."
 50,"UIUC specific used school materials mobile application (similar to facebook marketplace, ebay, etc.) where UIUC students can post used things for sale"
-55,"Create a program that screens companies trading on global stock exchanges, chooses good investment candidates based on user-controlled input criteria, and displays them in a user-friendly manner so the user can look into each company further if they wish."
+53,Qvision - App that displays the number of people standing in each line in each dining hall on campus. This data is provided by cameras using Computer Vision.
+58,"A fitness and diet tracker that allows the user to input their meals, tracking the number of calories and quantities of macro- and micronutrients, and also to input their exercises, tracking areas of the body targeted, calories burned, etc. Possibly, this tracker could also make recommendations (do this exercise because of the trends of what you've done this week, meet this caloric goal if you want to gain or lose weight, etc.) "
 60,An outfit suggestion system. This project will provide a suggestion on your clothing based on the temperature and the events that day. 
 61,"A mobile app similar to google maps, but it gives me a map for every bathroom/water fountain on campus. "
+64,Personal Radio (Website/App)
 72,A slg game like Civilization but in fantasy background
-74,Task Manager Web Application
-81,A solver for Poker that gives pre-flop playing suggestions 
-85,A social media for people who like to listen to music. 
+82,an interesting mobile app that helps people to increase their knowledge of birds
+88,"A website that keeps track of new articles posted by major news outlets across the political spectrum, uses language processing to identify objective versus politically-biased statements, and uses this information to create an objective summary based off of the articles."
+91,Music Recommendation Algorithm
+97,"Bus Alarm Have you ever disembarked at the wrong station because you overslept on a bus? This ""Bus Alarm"" app will solve your problems! This ""Bus Alarm"" app will be connected to the metro system so that it wakes you up before arriving to the destination. "
 101,"Shazam, but your voice is your tool. If you want to figure out a song, but you can hum it and the program will tell you what song it is that's been stuck in your head that you just can't remember the name of."
-113,"All-Included Education Website
-
-A free education website made by the community to the community. Ideally, it will cover all fields of learning possible, from CS to music or history to quantum physics. And the community can contribute by making an account, we will verify and if they are a verified person in the field, they can make learning blogs or videos in the website!"
+104,An anime-based bullet hell dungeon crawler game for mobile devices.
+113,"All-Included Education Website A free education website made by the community to the community. Ideally, it will cover all fields of learning possible, from CS to music or history to quantum physics. And the community can contribute by making an account, we will verify and if they are a verified person in the field, they can make learning blogs or videos in the website!"
 116,WebScraping Sentiment Analyser
-119,"Gardening website, where users can input information like soil type (clay vs loam vs sand), location, what they want from the plant (aesthetics, food, ground cover), harvest time, and get a recommendation of what to plant.
-"
-130,"This project would be to design an interactive website for Project4Less, a food-recovery RSO that aims to reduce food waste on campus while addressing food insecurity in the Urbana-Champaign community."
-136,"I think it would be cool to have an app that makes a playlist based on the workout a person is going. The app would be tailored to the workout's type, length, and level of difficulty. For instance, a light job would have a different list of songs than a sprint. Also, if a person is doing weights, they could use a playlist that includes the number of songs as the number of sets and the song switches every time a person starts a new set. This could be indicated to the app by either voice detection, touch on the screen, press of a button, or time. "
-142,"""T E T R I S ' D""
-
-(Game Development)
-
-(Java)
-
-Originally a web animation, the idea is that a stickman finds himself in the middle of a giant game of Tetris and tries to avoid being crushed by the falling blocks."
+123,"Trip Itinerary Website - A website that helps users plan what to do on a trip based on their selected location, duration of the trip, and number of total guests. The website will give the user activities to do and popular attractions to see and the rough estimates for how much it will cost per guest."
+127,daily vocabulary word / phrases app for language learners
+142,"""T E T R I S ' D"" (Game Development) (Java) Originally a web animation, the idea is that a stickman finds himself in the middle of a giant game of Tetris and tries to avoid being crushed by the falling blocks."
 143,Create a website which gives the expected value of a football or basketball player pick parlay based on data scared from statistics sites and odds from a selected platform (prizepicks/fanduel/draftkings)
-145,"App that includes all apartments that are available for rent to students, with info about features and more. Filters out possible apartments based on location relative to classes based on your major, prices you are willing to pay, and other features. Could also respond to user input or be linked to reviews about the apartment. "
-146,"My project will aim at developing a mobile app to detect and manage Down syndrome. It will be a one stop shop for Down syndrome patients. The app will provide facilities from detection and diagnosis of Down syndrome to ways of managing Down syndrome. It will also connect patients with Down syndrome to each other, this will make my app a safe haven for Down syndrome patients. The app will also recommend doctors to consult according to the district or location the patient is in."
 153,"An app that monitors how much pollution you emit, to help people reduce their carbon footprint. It would help users make eco-friendly decisions by giving small tips based on their behavior and patterns.  "
 154,An app that shows allergy-friendly restaurants in the area
-157,"A program you can use to ""search yourself up"" and it will tell you what information about you is out on the internet and if someone is using/selling your information. "
-172,CampusTutor - A mobile app that connects tutors and students on a college campus.
+159,"""Hydration Station"", Java mobile program that gives the user notifications on when and how much they should drink water. Based on inputted data like height, weight, activity, etc."
 173,"I want to create an app which provides support for the elderly in any emergency situations which will essentially try to send help as soon as possible by notifying someone on an app through them clicking a button, so that somebody is able to come and rescue them. "
-174,"The aim of my first idea is to develop an enhanced version of the commonly used iClicker, a device for checking attendance and conducting quizzes with multiple-choice questions. The enhanced iClicker will attempt to use simpler programming to provide a more seamless and efficient experience for both students and instructors."
+175,Using AI to optimise traffic flow in cities
+179,"UIUC Spaces Mobile App The users of the app will tell each other users about the capacity of the spaces by asking and answering. The users of the app can ask questions to certain users in selected areas, and the user in the area will tell how crowded is the place."
+180,Python program that helps predict stock price trends to a certain degree with machine learning.
 181,Self-Service Registration schedule generator tool for picking classes based on wide list of user preferences.
-200,A program to track people's spending habits
-205,An app to make pdfs more accessible
-213,"Daily Wear
-A web app that helps the user to decide what to wear each day by recording the clothes that they have and arranging them into combinations with certain basic fashion rules in mind. (E.g. don't make the whole combination the same color if there's no obvious change in the texture or pattern of the clothes)"
+197,"I am still trying to think about what to do specifically for this second idea, but overall, I want it to be volleyball related. I was thinking maybe like an AI or some camera that can tell whether the ball was in or outside the line (If it was a point) also tell if any of the players made like a fault or violation like touching the net. Other than that I was thinking of a volleyball minigame."
+204,something to do with ai
+213,Daily Wear A web app that helps the user to decide what to wear each day by recording the clothes that they have and arranging them into combinations with certain basic fashion rules in mind. (E.g. don't make the whole combination the same color if there's no obvious change in the texture or pattern of the clothes)
 217,"An ecommerce platform that serves as an intermediary between consumers and food producers. As the intermediary, we create a community where potential customers can directly contact various food producers without us needing to hold any of the stock. As a result, this will allow lower to middle income users to purchase food at a lower price and create a community to focus on minimizing waste."
-226,A health tracker application that is coordinated with the dining hall menu (so meant specifically for freshman) where students can track their meals and workouts.
 234,Roommate finding application
-247,creating a forum for people to share photos of dormitory cafeteria food
-251,A chrome extension that connects students who have a question about a course with another student who has taken that course before/is confident with the material. 
-253,"Music recommendation tool that recommends music to listeners not only on the time period that they were released or would play on the radio together, but based on the sounds of the music, content of the lyrics, etc."
-255,A detailed timetable and to do list. It will include a timetable for classes and appointments. It will also include a tomato clock and a record of time usage. 
-257,An education game for children based on Google's Quick Draw dataset; have them draw pictures then output the word of what their drawing represents
+242,"This project would be a scheduling app for my high school. Right now, my high school uses an app called Saturn, but recently Saturn has raised privacy and bullying concerns. If I can make an app that is specifically for my school(with the mascot and school pride slogans, similar to the Illinois App), then maybe my principal would consider it. If not, I could simply remove the high school aspect of it and make it a scheduling app for anything. Although there are many scheduling apps out there, I would get good practice out of this and I could also add features that you would otherwise have to pay for if you were to want one on the app store."
+263,A website that generates music recommendations based on what book you're reading and its genre
+270,"Self-flying Plane Simulation The user will choose a starting point and ending point on a map, and given those coordinates, a trained neural network will fly through 3d space through these coordinates. This project will require neural networks and genetic algorithms."
 271, Fruit sightings - shows students where they can find fresh produce on campus.
+275,Automatic Cycling Tracker An app that automatically detects when users start/stop bike rides and logs these rides.
+276,A solver for Connect 4
 285,Tech Support App
-286,Signature verifier
-296,VR Maze Simulation where AI can add challenges and and things towards your way to make it harder to complete the course. The course can also randomly change paths in front of you to make it hard to complete.
-297,"The AI-Powered Personal Finance Advisor is a software-based project designed to assist individuals in managing their finances more effectively. It leverages artificial intelligence and machine learning to provide personalized financial guidance, budgeting recommendations, investment advice, and financial goal tracking."
-301,"Book Recommendation Engine based on Class or Subject
-A recommender system that recommends books based on what class a student is in to either help supplement information from the class, or to be used when studying"
-304,Weather notifier app that gives a notification of local weather data
+293,Project Name: Secretary+ This would be a natural language processing note taking app. The main function will be taking in human voice input and producing concise notes based on the information.
+298,"A platform that can help a student organize every commitment they have - from applying to jobs and internships, joining and rushing different clubs/rsos/greek life, and even working on skills like Leetcode, etc."
+299,1v1 online card-based game with a fantasy setting and a few unique gimmicks
 307,"I would want to create a website that serves as an online journal. Everyday at a certain time, it will send a notification to the college student user and ask about their stress level and ask the user to journal. Depending on the consistency of the stress level, the website will analyze the cause of the stress (through the journal) and send the user a few recommendations to reduce it. For example if the stress is because of an overload of homework, the journal may suggest yoga or meditation. If the stress is because of lack of human interaction, the journal may suggest a few clubs depending on the person's interests. "
-310,"An application that matches different students on campus based on their study habits, courses, and majors to help find a study partner or even a study group."
-312,"Fitness tracking mobile app
-When users type in what they need, it will suggest videos
-Users can type in their goal, the app will help analyzing it
-Users can input their daily fitness and their food, and the app helps analyzing if that works or what should they do"
-315,A health tracking APP
-320,This project helps its user to develop a recipe of any food they want to fit their taste. 
-321,"Sign Language Translator for Speech- Impaired. Using a camera, we could make signs in ASL, which would then be translated into text to speech. "
-322,app to guide people to take better pictures using ML to analyze popular pictures on social media
-329,Analyzing the effect of misinformation campaigns by adversaries on nation states through tweets and subsequent reaction of citizens.
-331,"The app will focus on helping people create and maintain a garden. They will get tips and reminders for how to promote well-being for their plants. Users will also be able to upload the progress of their plants, so that they can get more specific and relevant feedback tips. "
+314,"""Where's my mobility aid?"" - an AI trained tool for vision impaired people to find their mobility aid. Users can take a picture of their surroundings and upload it (big, colorful buttons on the app) and answer questions (is it a cane/walker, what color is it etc) and the app will tell them how far away it is and what direction."
+323,Get a list of recipes and display them on UI
+325,"This project is to design a ML application that, given national environmental survey data, would calculate the popularity of / probability of passing a certain climate policy, e.g., a national carbon tax."
 333,Stock Market Simulator
-341,"My project will aim at creating a mobile app for all those looking for fashion recommendations, inspirations, and shopping options based on taste and preferences. The app takes an inspiration from BeReal by allowing users to upload their outfits but without the specific time. The app will make a shopping catalog for each user, this catalog will be used to help give clothing recommendations, avoid duplicate purchases and build an outfit for the user."
-350,"Stock Price Prediction Mobile App:
-The ""Stock Price Prediction Mobile App"" project aims to develop a mobile application (available on iOS and Android) that assists users in predicting future stock prices for a given company or stock symbol. The app collects historical stock price data, pre processes and analyzes it using machine learning techniques, and provides users with predictions and visualizations. Key features include real-time data fetching, data preprocessing, machine learning model integration, user-friendly interface, and performance evaluation. This project empowers users to make informed investment decisions by offering accessible stock price predictions, making it a valuable tool for novice investors and those looking to enhance their stock market knowledge."
+334,"Card game- Make a card game somewhat like Hearthstone or Magic (but much simpler, obviously). I'm not sure if it would be feasible as a new CS student and it would have to be pretty basic, but I like the idea."
+339,"A program that can predict crime rates in a specific area. It will take in things such as income, unemployment, population, and then return with how safe the place is and the crime rate."
+348,"An app that you can take around with you wherever you go, and if you reach a building or monument and you are curious about the historical significance or any historical event that has taken place there it will tell you. "
 352,An app where people can rank the best items on the menu at a restaurant and post it for others who want to visit that restaurant to see. 
-355,"AI driven Mental health chat bot/generated ai thing like gideon in flash to mimick a human
-
-Mental health is an extremely important aspect of all people. Many individuals struggle with mental health issues and may not have easy access to professional help. An AI-driven mental health chatbot can be a valuable project that combines computer science and healthcare to address this issue."
+353,Dice game 
+358,"A real time multiplayer version of the sliding block puzzle game. The goal of the game is to rearrange the blocks to get a specific configuration. The player who solves it first, wins. The web application could also give the user a variety of puzzles to choose from."
+360,"""RideShare"" - program that enables users to connect with people who are willing to drive with another individual long distances and split gas money (one person posts trip if they have a car and other people may request a rideshare to save on gas expenses, split costs)"
 364,"An app that would help with budgeting by analyzing weekly spending patterns. The user would have to input their weekly spending and earnings and then the app would track ""non essentials"" and suggest ways to save"
-369,An application that is designed to optimize study methods like memory retention through the application of spaced repetition techniques. It would provide users with a structured learning schedule (like reminders) ensuring that they revisit and reinforce previously learned material at intervals working best for the user.
-374,"UIUC Forum (mobile app)
-This mobile app will allow people in UIUC to share and write about any experiences of themselves that they would like to share to others, such as experiences from buildings, restaurants, apartments, purchased items, or anything. Moreover, it can be used for any group or people to advertise themselves, such as projects, events, RSO, or anything.  
-Every users are required to provide verifiable evidence of their contents before sharing."
 377,An lightweight productivity&planning app which can pull assignment deadlines from various platforms.
 382,"music recommendation system across campus. using machine learning and also user recommendations, helps recommend users music they may enjoy, as well as maybe local concert/ music events to attend. also helps connect them with other who may enjoy similar music tastes, to help build connection and community and help people meet new people with similar interests."
 384, Flashcard Software
+387,An app that runs similarly to Twitter but the goal is to build community so you can only access people within a certain small mileage from you. 
+390,Create a program that predicts how an NFL team will preform during the season 
